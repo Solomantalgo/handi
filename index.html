@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#101110" />
+  <meta name="description" content="Explore Haandi Restaurant Kampala's Indian, Asian and international menu. Order by WhatsApp." />
+  <title>Haandi Restaurant · Digital Menu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer" aria-label="Haandi Restaurant website">
+        <span class="brand-mark">H</span><span><strong>HAANDI</strong><small>RESTAURANT</small></span>
+      </a>
+      <div class="header-actions">
+        <label class="branch-picker"><span class="sr-only">Choose branch</span><select id="branchSelect"><option>Kampala Road</option><option>Naguru</option></select><span class="chevron">⌄</span></label>
+        <a class="website-link" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer">Main website <span>↗</span></a>
+        <button class="cart-button" id="openCart" type="button" aria-label="Open order review"><span>Order</span><b id="cartCount">0</b></button>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro">
+        <div class="intro-copy">
+          <div class="eyebrow">KAMPALA · UGANDA <span></span> EST. 1995</div>
+          <h1>Explore Our <em>Menu</em></h1>
+          <p>Indian <span>•</span> Asian <span>•</span> International Flavours</p>
+          <div class="intro-note"><span class="flame">✦</span><span>Handcrafted with patience.<br /><b>Dishes typically take 20–25 minutes.</b></span></div>
+        </div>
+        <div class="intro-image" aria-hidden="true"><div class="image-wash"></div><span class="image-caption">Where every dish tells a story</span></div>
+      </section>
+
+      <section class="menu-app" id="menuApp">
+        <div class="mode-switch" role="tablist" aria-label="Menu type"><button class="mode active" data-mode="food" role="tab" aria-selected="true">Food <small>106 dishes</small></button><button class="mode" data-mode="drinks" role="tab" aria-selected="false">Drinks <small>30 groups</small></button></div>
+        <div class="toolbar">
+          <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Search dishes, drinks..." /></label>
+          <button class="category-trigger" id="categoryTrigger" type="button"><span>Category</span><b id="categoryLabel">All food</b><span>⌄</span></button>
+          <button class="filter-trigger" id="vegToggle" type="button" aria-pressed="false"><span class="veg-dot"></span> Vegetarian only</button>
+        </div>
+        <div class="content-layout">
+          <aside class="category-sidebar" aria-label="Menu categories"><div class="sidebar-kicker">BROWSE MENU</div><div id="categoryNav"></div><div class="sidebar-help"><span>◌</span><b>Have an allergy?</b><small>Tell our service team before ordering.</small></div></aside>
+          <section class="menu-results"><div class="results-heading"><div><div class="eyebrow" id="resultKicker">FOOD MENU</div><h2 id="resultTitle">All food</h2></div><span id="resultCount">106 items</span></div><div id="menuGrid" class="menu-grid"></div><div id="emptyState" class="empty-state" hidden><div>⌕</div><h3>No dishes found</h3><p>Try another search or category.</p></div></section>
+        </div>
+      </section>
+
+      <section class="guest-notes"><div><span class="note-icon">◷</span><b>Good to know</b></div><p>Dishes typically take 20–25 minutes; some may take longer.</p><p>Request more or less spice, or less salt, when ordering.</p><p>Allergies and dietary requirements must be shared with our service team.</p></section>
+    </main>
+    <footer><span>HAANDI RESTAURANT</span><span>Indian Heritage · Global Flavours · Memorable Experiences</span></footer>
+  </div>
+
+  <div class="sheet-backdrop" id="backdrop" hidden></div>
+  <aside class="detail-sheet" id="detailSheet" aria-hidden="true" aria-labelledby="detailName"><button class="sheet-close" data-close="detail" type="button" aria-label="Close dish details">×</button><div id="detailContent"></div></aside>
+  <aside class="order-sheet" id="orderSheet" aria-hidden="true" aria-labelledby="orderTitle"><div class="sheet-head"><div><div class="eyebrow">YOUR SELECTION</div><h2 id="orderTitle">Order review</h2></div><button class="sheet-close" data-close="order" type="button" aria-label="Close order review">×</button></div><div id="orderContent"></div></aside>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="data.js"></script><script src="app.js"></script>
+</body>
+</html>

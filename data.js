@@ -3,8 +3,7 @@ const FOOD_CATEGORIES = [
   ['soups','Soups'],['salads','Salads'],['veg-starters','Vegetarian Starters'],['chicken-starters','Chicken Starters'],['fish-starters','Fish & Prawn Starters'],['mutton-starters','Mutton & Lamb Starters'],['chicken-mains','Chicken Main Course'],['fish-mains','Fish Main Course'],['mutton-mains','Mutton & Lamb Main Course'],['rice','Rice & Biryani'],['sides','Chips, Papad & Sides']
 ];
 const F = (category, name, description, spice, vegetarian=false) => ({ id: name.toLowerCase().replace(/[^a-z0-9]+/g,'-'), category, name, description, spice: spice || null, vegetarian, price: null, image: null });
-const FOOD_CATEGORY_IMAGES = {soups:'images/categories/food/soups.webp',salads:'images/categories/food/salads.webp','veg-starters':'images/categories/food/vegetarian-starters.webp','chicken-starters':'images/categories/food/chicken-starters.webp','fish-starters':'images/categories/food/fish-prawn-starters.webp','mutton-starters':'images/categories/food/mutton-lamb-starters.webp','chicken-mains':'images/categories/food/chicken-main-course.webp','fish-mains':'images/categories/food/fish-main-course.webp','mutton-mains':'images/categories/food/mutton-lamb-main-course.webp',rice:'images/categories/food/rice-biryani.webp',sides:'images/categories/food/chips-papad-sides.webp'};
-const DRINK_CATEGORY_IMAGES = {refreshments:'images/categories/drinks/refreshments.webp','cocktails-mocktails':'images/categories/drinks/cocktails-mocktails.webp',beer:'images/categories/drinks/beer.webp',wine:'images/categories/drinks/wine.webp',spirits:'images/categories/drinks/spirits.webp','mixers-garnishes':'images/categories/drinks/mixers-garnishes.webp'};
+const FOOD_CATEGORY_IMAGES = {soups:'images/categories/Food/soups.webp',salads:'images/categories/Food/salads.webp','veg-starters':'images/categories/Food/vegetarian-starters.webp','chicken-starters':'images/categories/Food/chicken-starters.webp','fish-starters':'images/categories/Food/fish-prawn-starters.webp','mutton-starters':'images/categories/Food/mutton-lamb-starters.webp','chicken-mains':'images/categories/Food/chicken-main-course.webp','fish-mains':'images/categories/Food/fish-main-course.webp','mutton-mains':'images/categories/Food/mutton-lamb-main-course.webp',rice:'images/categories/Food/rice-biryani.webp',sides:'images/categories/Food/chips-papad-sides.webp'};
 const FOOD = [
 ...['Cream of Tomato Soup|smooth, creamy tomato soup with a light tangy flavour.|Mild|v','Hot & Sour Soup|vegetables in a flavourful sour and spicy broth.|Medium|v','Chicken Manchow Soup|chicken and vegetables in a garlicky soup with chilli and herbs.|Medium–Spicy','Chicken Sweet Corn Soup|light chicken soup with sweet corn and egg.|Mild','Chicken Hot & Sour Soup|chicken and vegetables in a tangy, spicy broth.|Medium','Vegetable Noodle Soup|light vegetable broth with noodles and fresh vegetables.|Mild|v','Vegetable Sweet Corn Soup|light vegetable soup with sweet corn.|Mild|v'].map(x=>{let [n,d,s,v]=x.split('|');return F('soups',n,d,s,v==='v')}),
 ...['Green Salad|cucumber, tomato, onion, lettuce and seasonal vegetables.|Mild|v','Green Chutney|fresh coriander, mint and green chilli chutney.|Medium–Spicy|v','Golden City Quinoa Salad|quinoa with fresh vegetables and a light dressing.|Mild|v','Kachumbari Salad|fresh tomato, onion, coriander and lemon.|Mild|v'].map(x=>{let [n,d,s,v]=x.split('|');return F('salads',n,d,s,v==='v')}),
@@ -21,27 +20,33 @@ const FOOD = [
 const DRINK_GROUPS = [
   {
     "id": "refreshments",
-    "name": "Refreshments"
+    "name": "Refreshments",
+    "image": "images/categories/Drinks/refreshments.webp"
   },
   {
     "id": "cocktails-mocktails",
-    "name": "Cocktails & Mocktails"
+    "name": "Cocktails & Mocktails",
+    "image": "images/categories/Drinks/cocktails-mocktails.webp"
   },
   {
     "id": "beer",
-    "name": "Beer"
+    "name": "Beer",
+    "image": "images/categories/Drinks/beer.webp"
   },
   {
     "id": "wine",
-    "name": "Wine"
+    "name": "Wine",
+    "image": "images/categories/Drinks/wine.webp"
   },
   {
     "id": "spirits",
-    "name": "Spirits"
+    "name": "Spirits",
+    "image": "images/categories/Drinks/spirits.webp"
   },
   {
     "id": "mixers",
-    "name": "Mixers & Garnishes"
+    "name": "Mixers & Garnishes",
+    "image": "images/categories/Drinks/mixers-garnishes.webp"
   }
 ];
 const DRINKS = [
@@ -3149,13 +3154,13 @@ const DRINKS = [
   }
 ];
 const ITEM_IMAGE_ASSETS = {
-  'butter-chicken': {src:'images/items/food/butter-chicken.webp',sourcePage:'https://unsplash.com/photos/brown-and-green-dish-on-brown-wooden-bowl-sqcH2q7lkvo',photographer:'Raman',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
-  'chicken-tikka-masala': {src:'images/items/food/chicken-tikka-masala.webp',sourcePage:'https://unsplash.com/photos/chicken-tikka-masala-served-with-naan-bread-PXMh2o3tO1s',photographer:'Jessie Maxwell',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
-  'chicken-manchurian': {src:'images/items/food/chicken-manchurian.webp',sourcePage:'https://unsplash.com/photos/a-white-plate-topped-with-meat-and-vegetables-BUPlkEeDmMk',photographer:'Alex Bayev',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
+  'butter-chicken': {sourcePage:'https://unsplash.com/photos/brown-and-green-dish-on-brown-wooden-bowl-sqcH2q7lkvo',photographer:'Raman',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
+  'chicken-tikka-masala': {sourcePage:'https://unsplash.com/photos/chicken-tikka-masala-served-with-naan-bread-PXMh2o3tO1s',photographer:'Jessie Maxwell',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
+  'chicken-manchurian': {sourcePage:'https://unsplash.com/photos/a-white-plate-topped-with-meat-and-vegetables-BUPlkEeDmMk',photographer:'Alex Bayev',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
   'cocktails-mocktails-classic-signature-cocktails-pi-a-colada': {src:'images/items/drinks/pina-colada.webp',sourcePage:'https://unsplash.com/photos/clear-drinking-glass-with-yellow-liquid-and-purple-and-yellow-flower-lD1Yqc0b3kc',photographer:'Daniel Lloyd Blunk-Fernández',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
   'cocktails-mocktails-haandi-mojito-collection-classic-mojito': {src:'images/items/drinks/classic-mojito-cocktail.webp',sourcePage:'https://unsplash.com/photos/refreshing-mojito-cocktail-with-lemon-and-mint-AquVFyceuXk',photographer:'Mr. Pugo',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'}
 };
-FOOD.forEach(x=>{x.image=ITEM_IMAGE_ASSETS[x.id]?.src||null});
-DRINKS.forEach(x=>{x.image=ITEM_IMAGE_ASSETS[x.id]?.src||null});
-const ITEM_IMAGE_MANIFEST = [...FOOD,...DRINKS].map(x=>({id:x.id,name:x.name,kind:DRINK_GROUPS.some(g=>g.id===x.category)?'drink':'food',image:x.image,status:x.image?'stock':'unresolved',source:ITEM_IMAGE_ASSETS[x.id]||null}));
+const MENU_ITEMS = [...FOOD,...DRINKS];
+MENU_ITEMS.forEach(x=>{const drink=DRINK_GROUPS.some(g=>g.id===x.category);x.image=`images/items/${drink?'drinks':'food'}/${x.id}.webp`});
+const ITEM_IMAGE_MANIFEST = MENU_ITEMS.map(x=>{const drink=DRINK_GROUPS.some(g=>g.id===x.category),groups=drink?DRINK_GROUPS:FOOD_CATEGORIES,cat=groups.find(g=>(Array.isArray(g)?g[0]:g.id)===x.category);return{id:x.id,name:x.name,description:x.description||'',kind:drink?'drink':'food',category:x.category,categoryName:Array.isArray(cat)?cat[1]:cat?.name||x.category,subcategory:x.subcategory||null,servingVariant:x.serving??x.variant??null,expectedImagePath:x.image}});
 const SIGNATURES = [['Refreshing','Classic Virgin Mojito'],['Indian Favourite','Mango Lassi'],['Fruit Lover','Tropical Fruit Smoothie'],['Milkshake Favourite','Lotus Biscoff Milkshake'],['Cocktail Favourite','Classic Mojito'],['Premium Cocktail','Old Fashioned'],['Red Wine','Calvet Reserve Bordeaux Merlot Cabernet Sauvignon'],['White Wine','KWV Sauvignon Blanc'],['Sparkling','KWV Sparkling Cuvée Brut'],['Champagne','Moët & Chandon Brut Impérial']];

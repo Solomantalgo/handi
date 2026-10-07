@@ -1,0 +1,12 @@
+const fs = require('fs');
+const p = 'images/items/IMAGE-SOURCES.md';
+let s = fs.readFileSync(p, 'utf8');
+const id = 'retail-sweet-kaju-rolls';
+const line = s.split('\n').find(x => x.startsWith('| `'+id+'` |'));
+if (!line) throw new Error('Missing row '+id);
+const cells = line.slice(1,-1).split('|').map(x => x.trim());
+cells[5] = '[Pexels photo](https://www.pexels.com/photo/delicious-indian-sweet-kaju-roll-with-pistachio-39959158/)';
+cells[6] = 'Jahra Tasfia Reza / Pexels';
+cells[7] = 'Pexels License; attribution optional, appreciated. Downloaded from Pexels image CDN, resized to 800×1200 and converted to WebP.';
+cells[8] = 'Complete.';
+fs.writeFileSync(p, s.replace(line, '| '+cells.join(' | ')+' |'));

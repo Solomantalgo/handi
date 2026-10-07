@@ -29,20 +29,20 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 
 | Type | Stable ID | Item | Image | Status / source details |
 |---|---|---|---|---|
-| food | `cream-of-tomato-soup` | Cream of Tomato Soup | — | unresolved |
+| food | `cream-of-tomato-soup` | Cream of Tomato Soup | `images/items/food/cream-of-tomato-soup.webp` | stock; [Max Griss](https://unsplash.com/photos/soup-in-white-ceramic-bowl-8mVLMZ0WW98); Unsplash License; attribution not required, appreciated. |
 | food | `hot-sour-soup` | Hot & Sour Soup | — | unresolved |
 | food | `chicken-manchow-soup` | Chicken Manchow Soup | — | unresolved |
 | food | `chicken-sweet-corn-soup` | Chicken Sweet Corn Soup | — | unresolved |
 | food | `chicken-hot-sour-soup` | Chicken Hot & Sour Soup | — | unresolved |
 | food | `vegetable-noodle-soup` | Vegetable Noodle Soup | — | unresolved |
 | food | `vegetable-sweet-corn-soup` | Vegetable Sweet Corn Soup | — | unresolved |
-| food | `green-salad` | Green Salad | — | unresolved |
-| food | `green-chutney` | Green Chutney | — | unresolved |
-| food | `golden-city-quinoa-salad` | Golden City Quinoa Salad | — | unresolved |
-| food | `kachumbari-salad` | Kachumbari Salad | — | unresolved |
+| food | `green-salad` | Green Salad | `images/items/food/green-salad.webp` | stock; [Joanna Stolowicz](https://unsplash.com/photos/a-plate-of-salad-with-tomatoes-onions-and-lettuce-Way0WAwKsCA); Unsplash License; attribution not required, appreciated. |
+| food | `green-chutney` | Green Chutney | `images/items/food/green-chutney.webp` | [Sanyabolia](https://commons.wikimedia.org/wiki/File:Green_Chutney.jpg); CC BY-SA 4.0; attribution required, adapted image remains CC BY-SA 4.0. |
+| food | `golden-city-quinoa-salad` | Golden City Quinoa Salad | `images/items/food/golden-city-quinoa-salad.webp` | stock; [Dillon Lobo](https://unsplash.com/photos/quinoa-salad-with-pomegranate-seeds-and-feta-cheese-X2-R25T1A2A); Unsplash License; attribution not required, appreciated. |
+| food | `kachumbari-salad` | Kachumbari Salad | `images/items/food/kachumbari-salad.webp` | [safaritravelplus](https://commons.wikimedia.org/wiki/File:East_African_Garnish_Kachumbari.jpg); CC0 1.0; attribution not required. |
 | food | `paneer-tikka` | Paneer Tikka | — | unresolved |
-| food | `haandi-style-paneer-tikka` | Haandi Style Paneer Tikka | — | unresolved |
-| food | `paneer-malai-tikka` | Paneer Malai Tikka | — | unresolved |
+| food | `haandi-style-paneer-tikka` | Haandi Style Paneer Tikka | `images/items/food/haandi-style-paneer-tikka.webp` | SuVaM Epicure; CC BY-SA 4.0; attribution and share-alike required. See `images/items/IMAGE-SOURCES.md` for source URL and required credit. |
+| food | `paneer-malai-tikka` | Paneer Malai Tikka | `images/items/food/paneer-malai-tikka.webp` | Saakshi Salgaonker; CC BY-SA 4.0; attribution and share-alike required. See `images/items/IMAGE-SOURCES.md` for source URL and required credit. |
 | food | `paneer-achari-tikka` | Paneer Achari Tikka | — | unresolved |
 | food | `tandoori-paneer-tikka` | Tandoori Paneer Tikka | — | unresolved |
 | food | `chilli-paneer` | Chilli Paneer | — | unresolved |
@@ -73,20 +73,20 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 | food | `chicken-lollipop` | Chicken Lollipop | — | unresolved |
 | food | `chicken-65` | Chicken 65 | — | unresolved |
 | food | `chicken-drumsticks` | Chicken Drumsticks | — | unresolved |
-| food | `crispy-fried-fish` | Crispy Fried Fish | — | unresolved |
+| food | `crispy-fried-fish` | Crispy Fried Fish | `images/items/food/crispy-fried-fish.webp` | [Milton Das](https://www.pexels.com/photo/crispy-fried-fish-on-elegant-black-platter-35267272/); Pexels License; attribution appreciated. |
 | food | `fish-tikka` | Fish Tikka | — | unresolved |
 | food | `chilli-fish-dry-` | Chilli Fish (Dry) | — | unresolved |
 | food | `fish-salt-pepper` | Fish Salt & Pepper | — | unresolved |
 | food | `amritsari-fish-fry` | Amritsari Fish Fry | — | unresolved |
 | food | `tandoori-prawns` | Tandoori Prawns | — | unresolved |
-| food | `deep-fried-prawns` | Deep-Fried Prawns | — | unresolved |
+| food | `deep-fried-prawns` | Deep-Fried Prawns | `images/items/food/deep-fried-prawns.webp` | [Victor Miyata](https://www.pexels.com/photo/close-up-of-deep-fried-shrimps-with-sauce-and-lime-on-the-side-15476833/); Pexels License; attribution appreciated. |
 | food | `chilli-prawns` | Chilli Prawns | — | unresolved |
-| food | `mutton-seekh-kebab` | Mutton Seekh Kebab | — | unresolved |
+| food | `mutton-seekh-kebab` | Mutton Seekh Kebab | `images/items/food/mutton-seekh-kebab.webp` | [Ahmad No More](https://www.pexels.com/photo/mutton-seekh-kebab-and-sauces-6522658/); Pexels License; attribution appreciated. |
 | food | `mutton-tikka` | Mutton Tikka | — | unresolved |
 | food | `mutton-shashlik` | Mutton Shashlik | — | unresolved |
 | food | `mutton-chops` | Mutton Chops | — | unresolved |
 | food | `mutton-pepper-fry` | Mutton Pepper Fry | — | unresolved |
-| food | `lamb-chops` | Lamb Chops | — | unresolved |
+| food | `lamb-chops` | Lamb Chops | `images/items/food/lamb-chops.webp` | [Valeria Boltneva](https://www.pexels.com/photo/grilled-lamb-chops-on-white-ceramic-plate-8862757/); Pexels License; attribution appreciated. |
 | food | `lamb-seekh-kebab` | Lamb Seekh Kebab | — | unresolved |
 | food | `chilli-lamb-kebab` | Chilli Lamb Kebab | — | unresolved |
 | food | `chicken-tikka-masala` | Chicken Tikka Masala | images/items/food/chicken-tikka-masala.webp | stock · [Jessie Maxwell](https://unsplash.com/photos/chicken-tikka-masala-served-with-naan-bread-PXMh2o3tO1s) · Unsplash License · No attribution required; attribution appreciated. |
@@ -102,7 +102,7 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 | food | `chicken-makhani` | Chicken Makhani | — | unresolved |
 | food | `butter-chicken` | Butter Chicken | images/items/food/butter-chicken.webp | stock · [Raman](https://unsplash.com/photos/brown-and-green-dish-on-brown-wooden-bowl-sqcH2q7lkvo) · Unsplash License · No attribution required; attribution appreciated. |
 | food | `tandoori-chicken-masala` | Tandoori Chicken Masala | — | unresolved |
-| food | `fish-curry` | Fish Curry | — | unresolved |
+| food | `fish-curry` | Fish Curry | `images/items/food/fish-curry.webp` | [Jahra Tasfia Reza](https://www.pexels.com/photo/delicious-fish-curry-with-fresh-tomatoes-and-lime-40000110/); Pexels License; attribution appreciated. |
 | food | `coconut-fish-curry` | Coconut Fish Curry | — | unresolved |
 | food | `fish-makhani` | Fish Makhani | — | unresolved |
 | food | `fish-malabar-curry` | Fish Malabar Curry | — | unresolved |
@@ -128,10 +128,10 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 | food | `plain-chips` | Plain Chips | — | unresolved |
 | food | `masala-chips` | Masala Chips | — | unresolved |
 | food | `plain-papad-roasted-` | Plain Papad (Roasted) | — | unresolved |
-| food | `masala-papad-roasted-` | Masala Papad (Roasted) | — | unresolved |
+| food | `masala-papad-roasted-` | Masala Papad (Roasted) | `images/items/food/masala-papad-roasted-.webp` | [????? ??????????](https://www.pexels.com/photo/crispy-masala-papad-with-fresh-vegetables-34347890/); Pexels License; attribution appreciated. |
 | food | `crispy-fried-garlic-chips-spicy-` | Crispy Fried Garlic Chips (Spicy) | — | unresolved |
 | food | `crispy-fried-garlic-chips-mild-` | Crispy Fried Garlic Chips (Mild) | — | unresolved |
-| food | `paneer-pakora` | Paneer Pakora | — | unresolved |
+| food | `paneer-pakora` | Paneer Pakora | `images/items/food/paneer-pakora.webp` | [mukesh kumar](https://www.pexels.com/photo/food-plate-healthy-vegetables-8585763/); Pexels License; attribution appreciated. |
 | food | `masala-bhajiya` | Masala Bhajiya | — | unresolved |
 | food | `crispy-fried-onion-rings` | Crispy Fried Onion Rings | — | unresolved |
 | food | `honey-chilli-potato` | Honey Chilli Potato | — | unresolved |
@@ -143,11 +143,11 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 | drink | `refreshments-water-soft-beverages-fresh-lime-soda-sweet-salted-mixed` | Fresh Lime Soda (Sweet / Salted / Mixed) | — | unresolved |
 | drink | `refreshments-water-soft-beverages-fresh-lime-juice-plain-mixed` | Fresh Lime Juice (Plain / Mixed) | — | unresolved |
 | drink | `refreshments-fresh-juices-mixed-fresh-juice` | Mixed Fresh Juice | — | unresolved |
-| drink | `refreshments-fresh-juices-passion-fruit-juice` | Passion Fruit Juice | — | unresolved |
-| drink | `refreshments-fresh-juices-mango-juice` | Mango Juice | — | unresolved |
-| drink | `refreshments-fresh-juices-fresh-orange-juice` | Fresh Orange Juice | — | unresolved |
-| drink | `refreshments-fresh-juices-watermelon-juice` | Watermelon Juice | — | unresolved |
-| drink | `refreshments-fresh-juices-fresh-pineapple-juice` | Fresh Pineapple Juice | — | unresolved |
+| drink | `refreshments-fresh-juices-passion-fruit-juice` | Passion Fruit Juice | `images/items/drinks/refreshments-fresh-juices-passion-fruit-juice.webp` | Pexels, Shameel mukkath; Pexels License |
+| drink | `refreshments-fresh-juices-mango-juice` | Mango Juice | `images/items/drinks/refreshments-fresh-juices-mango-juice.webp` | Pexels, Nanda Mends; Pexels License |
+| drink | `refreshments-fresh-juices-fresh-orange-juice` | Fresh Orange Juice | `images/items/drinks/refreshments-fresh-juices-fresh-orange-juice.webp` | Pexels, Joseph Abeesh; Pexels License |
+| drink | `refreshments-fresh-juices-watermelon-juice` | Watermelon Juice | `images/items/drinks/refreshments-fresh-juices-watermelon-juice.webp` | Pexels, Shameel mukkath; Pexels License |
+| drink | `refreshments-fresh-juices-fresh-pineapple-juice` | Fresh Pineapple Juice | `images/items/drinks/refreshments-fresh-juices-fresh-pineapple-juice.webp` | Pexels, Los Muertos Crew; Pexels License |
 | drink | `refreshments-fresh-juices-mint-pineapple-juice` | Mint Pineapple Juice | — | unresolved |
 | drink | `refreshments-smoothies-mango-strawberry` | Mango & Strawberry | — | unresolved |
 | drink | `refreshments-smoothies-strawberry-banana` | Strawberry & Banana | — | unresolved |
@@ -160,12 +160,12 @@ Stock photography is illustrative menu imagery, not a photograph of Haandi's pre
 | drink | `refreshments-lassi-indian-refreshments-sweet-lassi` | Sweet Lassi | — | unresolved |
 | drink | `refreshments-lassi-indian-refreshments-salted-lassi` | Salted Lassi | — | unresolved |
 | drink | `refreshments-lassi-indian-refreshments-chaas-buttermilk` | Chaas / Buttermilk | — | unresolved |
-| drink | `refreshments-fresh-lemonade-classic-fresh-lemonade` | Classic Fresh Lemonade | — | unresolved |
+| drink | `refreshments-fresh-lemonade-classic-fresh-lemonade` | Classic Fresh Lemonade | `images/items/drinks/refreshments-fresh-lemonade-classic-fresh-lemonade.webp` | [Denys Gromov](https://www.pexels.com/photo/glass-of-lemonade-18142613/); Pexels License; attribution appreciated. |
 | drink | `refreshments-fresh-lemonade-mint-lemonade` | Mint Lemonade | — | unresolved |
 | drink | `refreshments-fresh-lemonade-strawberry-lemonade` | Strawberry Lemonade | — | unresolved |
 | drink | `refreshments-fresh-lemonade-passion-fruit-lemonade` | Passion Fruit Lemonade | — | unresolved |
 | drink | `refreshments-fresh-lemonade-sparkling-lemonade` | Sparkling Lemonade | — | unresolved |
-| drink | `refreshments-tea-masala-tea` | Masala Tea | — | unresolved |
+| drink | `refreshments-tea-masala-tea` | Masala Tea | `images/items/drinks/refreshments-tea-masala-tea.webp` | [Charlotte May](https://www.pexels.com/photo/masala-indian-tea-in-mug-5946616/); Pexels License; attribution appreciated. |
 | drink | `refreshments-tea-african-tea` | African Tea | — | unresolved |
 | drink | `refreshments-tea-lemon-tea` | Lemon Tea | — | unresolved |
 | drink | `refreshments-tea-black-tea` | Black Tea | — | unresolved |

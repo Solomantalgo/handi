@@ -13,14 +13,14 @@
 </head>
 <body>
   <div class="site-shell">
-    <header class="topbar">
+    <header class="topbar" id="topbar">
       <a class="brand" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer" aria-label="Haandi Restaurant website">
-        <span class="brand-mark">H</span><span><strong>HAANDI</strong><small>RESTAURANT</small></span>
+        <img class="brand-logo" src="images/Brand/haandi-logo-transparent.png" alt="Haandi Restaurant" width="1254" height="1254" fetchpriority="high" />
       </a>
       <div class="header-actions">
-        <label class="branch-picker"><span class="sr-only">Choose branch</span><select id="branchSelect"><option>Kampala Road</option><option>Naguru</option></select><span class="chevron">⌄</span></label>
-        <a class="website-link" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer">Main website <span>↗</span></a>
-        <button class="cart-button" id="openCart" type="button" aria-label="Open order review"><span>Order</span><b id="cartCount">0</b></button>
+        <label class="branch-picker" for="branchSelect"><svg class="branch-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z"/><circle cx="12" cy="9" r="2.2"/></svg><span class="branch-picker-copy"><span class="branch-label">Branch</span><select id="branchSelect"><option value="kampala-road">Kampala Road</option><option value="naguru">Naguru</option></select></span><svg class="branch-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3 3.5-3"/></svg></label>
+        <a class="website-link" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer" aria-label="Visit Haandi main website" title="Visit Haandi main website"><span class="website-link-label">Main website</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M10 3h5v5M15 3 8 10"/><path d="M13 10v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4"/></svg></a>
+        <button class="cart-button" id="openCart" type="button" aria-label="Open order review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg><span>Order</span><b id="cartCount">0</b></button>
       </div>
     </header>
 
@@ -37,15 +37,23 @@
       </section>
 
       <section class="menu-app" id="menuApp">
+        <div class="browse-sticky" id="browseSticky">
+        <div class="branch-summary"><img class="branch-logo" src="images/Brand/haandi-logo-transparent.png" alt="Haandi Restaurant" width="1254" height="1254" /><strong id="activeBranchName">Choose a branch</strong><span>·</span><button id="changeBranch" type="button">Change branch</button><small id="activeCartLabel"></small></div>
+        <p class="review-preview-notice" id="previewNotice" hidden>Development review: pending source records are visible and cannot be ordered.</p>
+        <div class="collection-overview" id="collectionOverview" aria-label="Menu collections"></div>
         <div class="mode-switch" role="tablist" aria-label="Menu type"><button class="mode active" data-mode="food" role="tab" aria-selected="true">Food <small></small></button><button class="mode" data-mode="drinks" role="tab" aria-selected="false">Drinks <small></small></button></div>
-        <div class="toolbar">
-          <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Search dishes, drinks..." /></label>
-          <button class="category-trigger" id="categoryTrigger" type="button" aria-haspopup="dialog" aria-controls="categoryDialog"><span>Category</span><b id="categoryLabel">All food</b><span>⌄</span></button>
-          <button class="filter-trigger" id="vegToggle" type="button" aria-pressed="false"><span class="veg-dot"></span> Vegetarian only</button>
+          <div class="toolbar">
+            <label class="search"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search dishes, drinks..." /></label>
+            <button class="category-trigger" id="categoryTrigger" type="button" aria-haspopup="dialog" aria-controls="categoryDialog"><span>Category</span><b id="categoryLabel">All food</b><svg viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3 3.5-3"/></svg></button>
+            <button class="filter-trigger" id="vegToggle" type="button" aria-pressed="false"><span class="veg-dot"></span> Vegetarian</button>
+            <button class="filter-trigger" id="nonVegToggle" type="button" aria-pressed="false">Non-vegetarian</button>
+            <button class="filter-trigger" id="spiceToggle" type="button" aria-pressed="false">Spice level</button>
+            <button class="reset-trigger" id="resetFilters" type="button" hidden>Clear filters</button>
+          </div>
         </div>
-        <div class="content-layout">
+        <div class="content-layout" id="contentLayout">
           <aside class="category-sidebar" aria-label="Menu categories"><div class="sidebar-kicker">BROWSE MENU</div><div id="categoryNav"></div><div class="sidebar-help"><span>◌</span><b>Have an allergy?</b><small>Tell our service team before ordering.</small></div></aside>
-          <section class="menu-results"><div class="results-heading"><div><div class="eyebrow" id="resultKicker">FOOD MENU</div><h2 id="resultTitle">All food</h2></div><span id="resultCount">106 items</span></div><div id="selectedCategoryHeader" class="selected-category-header" hidden></div><div id="menuGrid" class="menu-grid"></div><div id="emptyState" class="empty-state" hidden><div>⌕</div><h3>No dishes found</h3><p>Try another search or category.</p></div></section>
+          <section class="menu-results"><div class="results-heading"><div><div class="eyebrow" id="resultKicker">FOOD MENU</div><h2 id="resultTitle">All food</h2></div><span id="resultCount">Choose a collection</span></div><div id="selectedCategoryHeader" class="selected-category-header" hidden></div><div id="menuGrid" class="menu-grid"></div><div id="emptyState" class="empty-state" hidden><div>⌕</div><h3>No menu items found</h3><p>Try another search, category or filter.</p></div><button id="loadMore" class="load-more" type="button" hidden>Load more items</button></section>
         </div>
       </section>
 
@@ -54,6 +62,7 @@
     <footer><span>HAANDI RESTAURANT</span><span>Indian Heritage · Global Flavours · Memorable Experiences</span></footer>
   </div>
 
+  <button class="mobile-order-bar" id="mobileOrderBar" type="button" hidden aria-label="View your order"><span class="mobile-order-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg></span><span class="mobile-order-copy"><b>View Order</b><small id="mobileOrderQuantity">0 items</small></span><strong id="mobileOrderSubtotal" hidden></strong><svg class="mobile-order-arrow" viewBox="0 0 18 18" aria-hidden="true"><path d="M3 9h11m-4-4 4 4-4 4"/></svg></button>
   <div class="sheet-backdrop" id="backdrop" hidden></div>
   <div class="category-backdrop" id="categoryBackdrop" hidden></div>
   <section class="category-dialog" id="categoryDialog" role="dialog" aria-modal="true" aria-labelledby="categoryDialogTitle" aria-hidden="true" inert>
@@ -64,6 +73,6 @@
   <aside class="detail-sheet" id="detailSheet" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="detailName" inert><button class="sheet-close" data-close="detail" type="button" aria-label="Close dish details">×</button><div id="detailContent"></div></aside>
   <aside class="order-sheet" id="orderSheet" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="orderTitle" inert><div class="sheet-head"><div><div class="eyebrow">YOUR SELECTION</div><h2 id="orderTitle">Order review</h2></div><button class="sheet-close" data-close="order" type="button" aria-label="Close order review">×</button></div><div id="orderContent"></div></aside>
   <div class="toast" id="toast" role="status"></div>
-  <script src="data.js"></script><script src="app.js"></script>
+  <script src="data.js"></script><script src="branch-menu-data.js"></script><script src="supplemental-menu-data.js"></script><script src="app.js"></script>
 </body>
 </html>

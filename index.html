@@ -18,7 +18,7 @@
         <img class="brand-logo" src="images/Brand/haandi-logo-transparent.png" alt="Haandi Restaurant" width="1254" height="1254" fetchpriority="high" />
       </a>
       <div class="header-actions">
-        <label class="branch-picker" for="branchSelect"><svg class="branch-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z"/><circle cx="12" cy="9" r="2.2"/></svg><span class="branch-picker-copy"><span class="branch-label">Branch</span><select id="branchSelect"><option value="kampala-road">Kampala Road</option><option value="naguru">Naguru</option></select></span><svg class="branch-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3 3.5-3"/></svg></label>
+        <label class="branch-picker" for="branchSelect"><svg class="branch-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z"/><circle cx="12" cy="9" r="2.2"/></svg><span class="branch-picker-copy"><span class="branch-label">Branch</span><select id="branchSelect"><option value="">Choose branch</option><option value="kampala-road">Kampala Road</option><option value="naguru">Naguru</option></select></span><svg class="branch-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3 3.5-3"/></svg></label>
         <a class="website-link" href="https://haandirestaurantkampala.com/" target="_blank" rel="noreferrer" aria-label="Visit Haandi main website" title="Visit Haandi main website"><span class="website-link-label">Main website</span><svg viewBox="0 0 18 18" aria-hidden="true"><path d="M10 3h5v5M15 3 8 10"/><path d="M13 10v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4"/></svg></a>
         <button class="cart-button" id="openCart" type="button" aria-label="Open order review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg><span>Order</span><b id="cartCount">0</b></button>
       </div>
@@ -38,18 +38,22 @@
 
       <section class="menu-app" id="menuApp">
         <div class="branch-summary"><img class="branch-logo" src="images/Brand/haandi-logo-transparent.png" alt="Haandi Restaurant" width="1254" height="1254" /><strong id="activeBranchName">Choose a branch</strong><span>·</span><button id="changeBranch" type="button">Change branch</button><small id="activeCartLabel"></small></div>
+        <section class="branch-gate" id="branchGate" aria-labelledby="branchGateTitle" hidden><div class="eyebrow">HAANDI DIGITAL MENU</div><h2 id="branchGateTitle">Choose your branch</h2><p>Select a location to see its menu and prices.</p><div class="branch-gate-options"><button type="button" data-choose-branch="kampala-road"><strong>Kampala Road</strong><span>View Kampala Road menu</span></button><button type="button" data-choose-branch="naguru"><strong>Naguru</strong><span>View Naguru menu</span></button></div></section>
         <p class="review-preview-notice" id="previewNotice" hidden>Development review: pending source records are visible and cannot be ordered.</p>
         <div class="collection-overview" id="collectionOverview" aria-label="Menu collections"></div>
         <div class="browse-sticky" id="browseSticky">
+        <nav class="collection-breadcrumb" id="collectionBreadcrumb" aria-label="Collection breadcrumb" hidden><button id="allCollections" type="button">All collections</button><span aria-hidden="true">›</span><strong id="collectionCrumb"></strong><span id="categoryCrumbWrap" hidden aria-hidden="true">›</span><span id="categoryCrumb" hidden></span></nav>
         <div class="mode-switch" role="tablist" aria-label="Menu type"><button class="mode active" data-mode="food" role="tab" aria-selected="true">Food <small></small></button><button class="mode" data-mode="drinks" role="tab" aria-selected="false">Drinks <small></small></button></div>
           <div class="toolbar">
             <label class="search"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search dishes, drinks..." /></label>
             <button class="category-trigger" id="categoryTrigger" type="button" aria-haspopup="dialog" aria-controls="categoryDialog"><span>Category</span><b id="categoryLabel">All food</b><svg viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3 3.5-3"/></svg></button>
-            <button class="filter-trigger" id="vegToggle" type="button" aria-pressed="false"><span class="veg-dot"></span> Vegetarian</button>
-            <button class="filter-trigger" id="nonVegToggle" type="button" aria-pressed="false">Non-vegetarian</button>
-            <button class="filter-trigger" id="spiceToggle" type="button" aria-pressed="false">Spice level</button>
-            <button class="reset-trigger" id="resetFilters" type="button" hidden>Clear filters</button>
           </div>
+        </div>
+        <div class="filter-toolbar" id="filterToolbar" hidden>
+          <button class="filter-trigger" id="vegToggle" type="button" aria-pressed="false"><span class="veg-dot"></span> Vegetarian</button>
+          <button class="filter-trigger" id="nonVegToggle" type="button" aria-pressed="false">Non-vegetarian</button>
+          <label class="spice-filter-wrap" id="spiceFilterWrap"><span class="sr-only">Filter by spice level</span><select class="filter-trigger spice-filter" id="spiceToggle"><option value="">Any spice level</option><option value="Mild">Mild</option><option value="Medium">Medium</option><option value="Spicy">Spicy</option><option value="Very Spicy">Very Spicy</option></select></label>
+          <button class="reset-trigger" id="resetFilters" type="button" hidden>Clear filters</button>
         </div>
         <div class="content-layout" id="contentLayout">
           <aside class="category-sidebar" aria-label="Menu categories"><div class="sidebar-kicker">BROWSE MENU</div><div id="categoryNav"></div><div class="sidebar-help"><span>◌</span><b>Have an allergy?</b><small>Tell our service team before ordering.</small></div></aside>

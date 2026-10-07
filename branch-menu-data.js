@@ -1,57 +1,5 @@
 const BRANCH_RESTAURANT_PRODUCTS = [
   {
-    "id": "achari-chicken-tikka",
-    "name": "Achari Chicken Tikka",
-    "sourceNames": [
-      "Achari Chicken Tikka"
-    ],
-    "description": "A mouthwatering fusion of tangy and spicy, Achari Chicken Tikka features tender chicken marinated in a unique blend of pickling spices like mustard, fennel, and nigella seeds. Grilled to perfection.",
-    "collection": "restaurant-food",
-    "category": "non-vegetarian-starters",
-    "vegetarian": false,
-    "spice": null,
-    "imagePath": "images/items/food/achari-chicken-tikka.webp",
-    "reviewStatus": "confirmed",
-    "branchOffers": {
-      "kampala-road": {
-        "status": "confirmed",
-        "category": "non-vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 7
-      },
-      "naguru": {
-        "status": "confirmed",
-        "category": "non-vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 7
-      }
-    },
-    "sourceRecords": [
-      {
-        "branch": "kampala-road",
-        "page": 7,
-        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
-      },
-      {
-        "branch": "naguru",
-        "page": 7,
-        "filename": "FINAL FOOD MENU NAGURU.pdf"
-      }
-    ]
-  },
-  {
     "id": "afghani-malai-soya-chaap",
     "name": "Afghani Malai Soya Chaap",
     "sourceNames": [
@@ -661,6 +609,58 @@ const BRANCH_RESTAURANT_PRODUCTS = [
       {
         "branch": "naguru",
         "page": 15,
+        "filename": "FINAL FOOD MENU NAGURU.pdf"
+      }
+    ]
+  },
+  {
+    "id": "chicken-achari-tikka",
+    "name": "Chicken Achari Tikka",
+    "sourceNames": [
+      "Achari Chicken Tikka"
+    ],
+    "description": "chicken with tangy Indian pickle spices.",
+    "collection": "restaurant-food",
+    "category": "chicken-starters",
+    "vegetarian": false,
+    "spice": "Medium",
+    "imagePath": "images/items/food/chicken-achari-tikka.webp",
+    "reviewStatus": "confirmed",
+    "branchOffers": {
+      "kampala-road": {
+        "status": "confirmed",
+        "category": "non-vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 7
+      },
+      "naguru": {
+        "status": "confirmed",
+        "category": "non-vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 7
+      }
+    },
+    "sourceRecords": [
+      {
+        "branch": "kampala-road",
+        "page": 7,
+        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
+      },
+      {
+        "branch": "naguru",
+        "page": 7,
         "filename": "FINAL FOOD MENU NAGURU.pdf"
       }
     ]
@@ -1856,6 +1856,58 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
+    "id": "chilli-fish-dry-",
+    "name": "Chilli Fish (Dry)",
+    "sourceNames": [
+      "Chilly Fish Dry"
+    ],
+    "description": "crispy fish with chilli, onion and capsicum.",
+    "collection": "restaurant-food",
+    "category": "fish-starters",
+    "vegetarian": false,
+    "spice": "Medium–Spicy",
+    "imagePath": "images/items/food/chilli-fish-dry-.webp",
+    "reviewStatus": "confirmed",
+    "branchOffers": {
+      "kampala-road": {
+        "status": "confirmed",
+        "category": "non-vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 8
+      },
+      "naguru": {
+        "status": "confirmed",
+        "category": "non-vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 8
+      }
+    },
+    "sourceRecords": [
+      {
+        "branch": "kampala-road",
+        "page": 8,
+        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
+      },
+      {
+        "branch": "naguru",
+        "page": 8,
+        "filename": "FINAL FOOD MENU NAGURU.pdf"
+      }
+    ]
+  },
+  {
     "id": "chilli-garlic-naan",
     "name": "Chilli Garlic Naan",
     "sourceNames": [
@@ -1960,6 +2012,58 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
+    "id": "chilli-paneer",
+    "name": "Chilli Paneer",
+    "sourceNames": [
+      "Chilly Paneer Chinese Style"
+    ],
+    "description": "crispy paneer with chilli, onion and capsicum.",
+    "collection": "restaurant-food",
+    "category": "veg-starters",
+    "vegetarian": true,
+    "spice": "Medium–Spicy",
+    "imagePath": "images/items/food/chilli-paneer.webp",
+    "reviewStatus": "confirmed",
+    "branchOffers": {
+      "kampala-road": {
+        "status": "confirmed",
+        "category": "vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 5
+      },
+      "naguru": {
+        "status": "confirmed",
+        "category": "vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 5
+      }
+    },
+    "sourceRecords": [
+      {
+        "branch": "kampala-road",
+        "page": 5,
+        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
+      },
+      {
+        "branch": "naguru",
+        "page": 5,
+        "filename": "FINAL FOOD MENU NAGURU.pdf"
+      }
+    ]
+  },
+  {
     "id": "chilli-prawns",
     "name": "Chilli Prawns",
     "sourceNames": [
@@ -2012,58 +2116,6 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
-    "id": "chilly-fish-dry",
-    "name": "Chilly Fish Dry",
-    "sourceNames": [
-      "Chilly Fish Dry"
-    ],
-    "description": "Crispy, golden-fried fish tossed in a fiery, tangy chili sauce with hints of garlic, ginger, and a blend of aromatic spices. Stir-fried with vibrant bell peppers and onions.",
-    "collection": "restaurant-food",
-    "category": "non-vegetarian-starters",
-    "vegetarian": false,
-    "spice": null,
-    "imagePath": "images/items/food/chilly-fish-dry.webp",
-    "reviewStatus": "confirmed",
-    "branchOffers": {
-      "kampala-road": {
-        "status": "confirmed",
-        "category": "non-vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 8
-      },
-      "naguru": {
-        "status": "confirmed",
-        "category": "non-vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 8
-      }
-    },
-    "sourceRecords": [
-      {
-        "branch": "kampala-road",
-        "page": 8,
-        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
-      },
-      {
-        "branch": "naguru",
-        "page": 8,
-        "filename": "FINAL FOOD MENU NAGURU.pdf"
-      }
-    ]
-  },
-  {
     "id": "chilly-mushroom",
     "name": "Chilly Mushroom",
     "sourceNames": [
@@ -2106,58 +2158,6 @@ const BRANCH_RESTAURANT_PRODUCTS = [
       {
         "branch": "kampala-road",
         "page": 6,
-        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
-      },
-      {
-        "branch": "naguru",
-        "page": 5,
-        "filename": "FINAL FOOD MENU NAGURU.pdf"
-      }
-    ]
-  },
-  {
-    "id": "chinese-style-paneer",
-    "name": "Chinese-Style Paneer",
-    "sourceNames": [
-      "Chilly Paneer Chinese Style"
-    ],
-    "description": "paneer stir-fried with vegetables and Chinese-style sauce.",
-    "collection": "restaurant-food",
-    "category": "veg-starters",
-    "vegetarian": true,
-    "spice": "Medium",
-    "imagePath": "images/items/food/chinese-style-paneer.webp",
-    "reviewStatus": "confirmed",
-    "branchOffers": {
-      "kampala-road": {
-        "status": "confirmed",
-        "category": "vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 5
-      },
-      "naguru": {
-        "status": "confirmed",
-        "category": "vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 5
-      }
-    },
-    "sourceRecords": [
-      {
-        "branch": "kampala-road",
-        "page": 5,
         "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
       },
       {
@@ -2629,17 +2629,17 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
-    "id": "crispy-fried-fish-fillet",
-    "name": "Crispy Fried Fish Fillet",
+    "id": "crispy-fried-fish",
+    "name": "Crispy Fried Fish",
     "sourceNames": [
       "Crispy Ftried Fish Fillet"
     ],
-    "description": "",
+    "description": "crispy outside, tender inside.",
     "collection": "restaurant-food",
-    "category": "non-vegetarian-starters",
+    "category": "fish-starters",
     "vegetarian": false,
-    "spice": null,
-    "imagePath": "images/items/food/crispy-fried-fish-fillet.webp",
+    "spice": "Mild",
+    "imagePath": "images/items/food/crispy-fried-fish.webp",
     "reviewStatus": "confirmed",
     "branchOffers": {
       "naguru": {
@@ -4688,7 +4688,7 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     "sourceNames": [
       "Masala Papad Fried"
     ],
-    "description": "Crisp roasted pappadums seasoned with a fragrant mix of spices, creating a perfect combination of crunch and bold flavor.",
+    "description": "",
     "collection": "restaurant-food",
     "category": "sides",
     "vegetarian": null,
@@ -5117,17 +5117,17 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
-    "id": "mushroom-salt-and-pepper",
-    "name": "Mushroom Salt and Pepper",
+    "id": "mushroom-salt-pepper",
+    "name": "Mushroom Salt & Pepper",
     "sourceNames": [
       "Mushroom Salt and Pepper"
     ],
-    "description": "Crispy, golden-fried mushrooms seasoned with a perfect blend of salt, cracked black pepper, and aromatic spices. Tossed with sautéed onions, garlic, and chili for a burst of flavor in every bite.",
+    "description": "crispy mushroom with black pepper and seasoning.",
     "collection": "restaurant-food",
-    "category": "vegetarian-starters",
+    "category": "veg-starters",
     "vegetarian": true,
-    "spice": null,
-    "imagePath": "images/items/food/mushroom-salt-and-pepper.webp",
+    "spice": "Medium",
+    "imagePath": "images/items/food/mushroom-salt-pepper.webp",
     "reviewStatus": "confirmed",
     "branchOffers": {
       "kampala-road": {
@@ -5519,17 +5519,17 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
-    "id": "onion-masala-pulao",
-    "name": "Onion Masala Pulao",
+    "id": "onion-pulao",
+    "name": "Onion Pulao",
     "sourceNames": [
       "Onion Masala Pulao"
     ],
-    "description": "Fragrant basmati rice cooked with carmalized onions and a blend of aromatic spices.",
+    "description": "fragrant rice with fried onions and aromatic spices.",
     "collection": "restaurant-food",
-    "category": "rice-biryani",
-    "vegetarian": null,
-    "spice": null,
-    "imagePath": "images/items/food/onion-masala-pulao.webp",
+    "category": "rice",
+    "vegetarian": true,
+    "spice": "Mild",
+    "imagePath": "images/items/food/onion-pulao.webp",
     "reviewStatus": "confirmed",
     "branchOffers": {
       "kampala-road": {
@@ -6075,17 +6075,17 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
-    "id": "paneer-salt-and-pepper",
-    "name": "Paneer Salt and Pepper",
+    "id": "paneer-salt-pepper",
+    "name": "Paneer Salt & Pepper",
     "sourceNames": [
       "Paneer Salt and Pepper"
     ],
-    "description": "A delightful simple dish featuring soft golden-brown paneer seasoned with a perfect balance of salt and freshly grounded black pepper.",
+    "description": "crispy paneer with black pepper and seasoning.",
     "collection": "restaurant-food",
-    "category": "vegetarian-starters",
+    "category": "veg-starters",
     "vegetarian": true,
-    "spice": null,
-    "imagePath": "images/items/food/paneer-salt-and-pepper.webp",
+    "spice": "Medium",
+    "imagePath": "images/items/food/paneer-salt-pepper.webp",
     "reviewStatus": "confirmed",
     "branchOffers": {
       "naguru": {
@@ -6102,68 +6102,6 @@ const BRANCH_RESTAURANT_PRODUCTS = [
       }
     },
     "sourceRecords": [
-      {
-        "branch": "naguru",
-        "page": 4,
-        "filename": "FINAL FOOD MENU NAGURU.pdf"
-      }
-    ]
-  },
-  {
-    "id": "paneer-tikka",
-    "name": "Paneer Tikka",
-    "sourceNames": [
-      "Paneer Tikka Tandoori"
-    ],
-    "description": "marinated cottage cheese grilled in the tandoor.",
-    "collection": "restaurant-food",
-    "category": "veg-starters",
-    "vegetarian": true,
-    "spice": "Medium",
-    "imagePath": "images/items/food/paneer-tikka.webp",
-    "reviewStatus": "confirmed",
-    "branchOffers": {
-      "kampala-road": {
-        "status": "confirmed",
-        "category": "vegetarian-starters",
-        "variants": [
-          {
-            "id": "half",
-            "label": "Half",
-            "price": 28000
-          },
-          {
-            "id": "full",
-            "label": "Full",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 5
-      },
-      "naguru": {
-        "status": "confirmed",
-        "category": "vegetarian-starters",
-        "variants": [
-          {
-            "id": "half",
-            "label": "Half",
-            "price": 28000
-          },
-          {
-            "id": "full",
-            "label": "Full",
-            "price": 35000
-          }
-        ],
-        "sourcePage": 4
-      }
-    },
-    "sourceRecords": [
-      {
-        "branch": "kampala-road",
-        "page": 5,
-        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
-      },
       {
         "branch": "naguru",
         "page": 4,
@@ -7703,6 +7641,68 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     ]
   },
   {
+    "id": "tandoori-paneer-tikka",
+    "name": "Tandoori Paneer Tikka",
+    "sourceNames": [
+      "Paneer Tikka Tandoori"
+    ],
+    "description": "paneer marinated in yoghurt and tandoori spices, grilled.",
+    "collection": "restaurant-food",
+    "category": "veg-starters",
+    "vegetarian": true,
+    "spice": "Medium",
+    "imagePath": "images/items/food/tandoori-paneer-tikka.webp",
+    "reviewStatus": "confirmed",
+    "branchOffers": {
+      "kampala-road": {
+        "status": "confirmed",
+        "category": "vegetarian-starters",
+        "variants": [
+          {
+            "id": "half",
+            "label": "Half",
+            "price": 28000
+          },
+          {
+            "id": "full",
+            "label": "Full",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 5
+      },
+      "naguru": {
+        "status": "confirmed",
+        "category": "vegetarian-starters",
+        "variants": [
+          {
+            "id": "half",
+            "label": "Half",
+            "price": 28000
+          },
+          {
+            "id": "full",
+            "label": "Full",
+            "price": 35000
+          }
+        ],
+        "sourcePage": 4
+      }
+    },
+    "sourceRecords": [
+      {
+        "branch": "kampala-road",
+        "page": 5,
+        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
+      },
+      {
+        "branch": "naguru",
+        "page": 4,
+        "filename": "FINAL FOOD MENU NAGURU.pdf"
+      }
+    ]
+  },
+  {
     "id": "tandoori-prawns",
     "name": "Tandoori Prawns",
     "sourceNames": [
@@ -8100,7 +8100,7 @@ const BRANCH_RESTAURANT_PRODUCTS = [
     "sourceNames": [
       "Turbo Naan without cheese"
     ],
-    "description": "A decadent and indulgent naan stuffed with a rich blend of melted cheese and seasoned with a hint of herbs and spices.",
+    "description": "",
     "collection": "restaurant-food",
     "category": "breads",
     "vegetarian": null,
@@ -8282,41 +8282,6 @@ const BRANCH_RESTAURANT_PRODUCTS = [
         "branch": "naguru",
         "page": 12,
         "filename": "FINAL FOOD MENU NAGURU.pdf"
-      }
-    ]
-  },
-  {
-    "id": "veg-platter",
-    "name": "Veg Platter",
-    "sourceNames": [
-      "Veg Platter"
-    ],
-    "description": "Vegetarian delight including Hara Bhara Kebab, Malai Broccoli, Paneer Tikka, Veg Manchurian, Aloo Nazakat, Tandoori Pineapple.",
-    "collection": "restaurant-food",
-    "category": "non-vegetarian-starters",
-    "vegetarian": false,
-    "spice": null,
-    "imagePath": "images/items/food/veg-platter.webp",
-    "reviewStatus": "confirmed",
-    "branchOffers": {
-      "kampala-road": {
-        "status": "confirmed",
-        "category": "non-vegetarian-starters",
-        "variants": [
-          {
-            "id": "standard",
-            "label": "Standard",
-            "price": 45000
-          }
-        ],
-        "sourcePage": 6
-      }
-    },
-    "sourceRecords": [
-      {
-        "branch": "kampala-road",
-        "page": 6,
-        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
       }
     ]
   },
@@ -8525,6 +8490,41 @@ const BRANCH_RESTAURANT_PRODUCTS = [
         "branch": "naguru",
         "page": 12,
         "filename": "FINAL FOOD MENU NAGURU.pdf"
+      }
+    ]
+  },
+  {
+    "id": "vegetable-platter",
+    "name": "Vegetable Platter",
+    "sourceNames": [
+      "Veg Platter"
+    ],
+    "description": "a selection of popular vegetarian starters.",
+    "collection": "restaurant-food",
+    "category": "veg-starters",
+    "vegetarian": true,
+    "spice": "Mild–Medium",
+    "imagePath": "images/items/food/vegetable-platter.webp",
+    "reviewStatus": "confirmed",
+    "branchOffers": {
+      "kampala-road": {
+        "status": "confirmed",
+        "category": "non-vegetarian-starters",
+        "variants": [
+          {
+            "id": "standard",
+            "label": "Standard",
+            "price": 45000
+          }
+        ],
+        "sourcePage": 6
+      }
+    },
+    "sourceRecords": [
+      {
+        "branch": "kampala-road",
+        "page": 6,
+        "filename": "FINAL FOOD MENU KAMPALA ROAD-1.pdf"
       }
     ]
   },

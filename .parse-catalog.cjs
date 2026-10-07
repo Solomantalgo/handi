@@ -17,6 +17,11 @@ const aliases={
  'Kajju Curry':'Kaju Curry','Pudhina Prantha':'Pudina Paratha',
  'Tandoori Alo Nzakat':'Tandoori Aloo Nazakat','Chicken Drums of Heaven':'Chicken Drumsticks',
  'Chef Special Chicken Mint':'Chicken Mint Bura',
+ 'Paneer Tikka Tandoori':'Tandoori Paneer Tikka','Chilly Paneer Chinese Style':'Chilli Paneer',
+ 'Paneer Salt and Pepper':'Paneer Salt & Pepper','Mushroom Salt and Pepper':'Mushroom Salt & Pepper',
+ 'Chilly Fish Dry':'Chilli Fish (Dry)','Veg Platter':'Vegetable Platter',
+ 'Crispy Fried Fish Fillet':'Crispy Fried Fish','Achari Chicken Tikka':'Chicken Achari Tikka',
+ 'Onion Masala Pulao':'Onion Pulao',
  'Crispy Fried Chilly Garlic Chips ( Spicy )':'Crispy Fried Garlic Chips (Spicy)',
  'Crispy Fried Chilly Garlic Chips ( Mild )':'Crispy Fried Garlic Chips (Mild)',
  'Masala Papad Roasted':'Masala Papad (Roasted)','Plain Papad Roasted':'Plain Papad (Roasted)',
@@ -82,7 +87,7 @@ const aliasName=r=>{
 };
 const result=new Map(),review=new Set(['Turbo Naan without cheese','Masala Papad Fried','Papdi Chaat','Kulfi Mango or pistachio']);
 for(const r of records){
- const display=aliasName(r);let legacy=old.find(x=>slug(x.name)===slug(display));
+ const display=aliasName(r),legacyName=aliases[display]||display;let legacy=old.find(x=>slug(x.name)===slug(legacyName));
  if(!legacy&&display==='Chicken Manchow Soup')legacy=old.find(x=>x.id==='chicken-manchow-soup');
  const id=legacy?.id||slug(display),status=review.has(r.name)?'pending-confirmation':'confirmed';
  const category=r.category==='restaurant-food'?'restaurant-items':r.category;
@@ -95,6 +100,7 @@ for(const r of records){
 const products=[...result.values()].sort((a,b)=>a.id.localeCompare(b.id));
 const raita=result.get('raita');if(raita){raita.name='Raita';raita.description='';raita.sourceNames=[...new Set([...raita.sourceNames,'Mix Vegetable Raitath','Boondi Raita'])];const o=raita.branchOffers['kampala-road'];if(o)o.variants=[{id:'mix-vegetable',label:'Mix Vegetable Raita',price:10000},{id:'boondi',label:'Boondi Raita',price:10000}]}
 const cucumber=result.get('cucumber-raita');if(cucumber&&cucumber.description==='r,')cucumber.description='';
+for(const id of ['turbo-naan-without-cheese','masala-papad-fried']){const p=result.get(id);if(p)p.description=''}
 fs.writeFileSync('branch-menu-data.js','const BRANCH_RESTAURANT_PRODUCTS = '+JSON.stringify(products,null,2)+';\n');
 stats.products=products.length;stats.matchedLegacy=products.filter(p=>old.some(x=>x.id===p.id)).length;stats.branchOfferCounts={};for(const p of products)for(const [b,o] of Object.entries(p.branchOffers))if(o.status==='confirmed')stats.branchOfferCounts[b]=(stats.branchOfferCounts[b]||0)+1;
 console.log(JSON.stringify({rawRows:records.length,products:stats.products,matchedLegacy:stats.matchedLegacy,branchOfferCounts:stats.branchOfferCounts,categories:[...new Set(products.map(x=>x.category))]},null,2));

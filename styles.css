@@ -81,3 +81,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{ou
 @media(max-width:430px){.brand-logo{width:42px;height:42px}.header-actions{flex:1 1 auto;min-width:0;justify-content:flex-end}.branch-picker{width:94px;min-width:0;max-width:94px;flex:none}.branch-picker select{width:67px;max-width:67px}.cart-button{flex:none}}
 @media(max-width:430px){.branch-picker{width:auto;max-width:none;flex:none}.branch-picker select{width:112px;min-width:112px;max-width:112px;font-size:10px}}
 @media(max-width:370px){.branch-picker{width:132px;max-width:132px}.branch-picker select{width:112px;min-width:112px;max-width:112px}}
+.review-preview-notice{margin:4px 0 12px;padding:9px 12px;border-left:2px solid #d7b45c;background:#d7b45c12;color:#d6c18f;font-size:11px}.review-preview-notice[hidden]{display:none}
+.search-group-heading{grid-column:1/-1;margin:14px 0 -5px;padding:0 0 8px;border-bottom:1px solid var(--line);font:500 18px 'Playfair Display';color:var(--gold2)}
+.branch-summary .branch-logo{display:none}
+#menuApp[data-search-all="true"] .menu-results{grid-column:1/-1}.category-trigger[hidden]{display:none!important}

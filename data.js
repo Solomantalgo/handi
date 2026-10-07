@@ -1,4 +1,4 @@
-const CONFIG = { whatsapp: '256749710372', website: 'https://haandirestaurantkampala.com/', liveOrdering: false, branches: ['Kampala Road', 'Naguru'] };
+const CONFIG = { whatsapp: '256749710372', website: 'https://haandirestaurantkampala.com/', liveOrdering: false, branches: ['kampala-road', 'naguru'] };
 const FOOD_CATEGORIES = [
   ['soups','Soups'],['salads','Salads'],['veg-starters','Vegetarian Starters'],['chicken-starters','Chicken Starters'],['fish-starters','Fish & Prawn Starters'],['mutton-starters','Mutton & Lamb Starters'],['chicken-mains','Chicken Main Course'],['fish-mains','Fish Main Course'],['mutton-mains','Mutton & Lamb Main Course'],['rice','Rice & Biryani'],['sides','Chips, Papad & Sides']
 ];
@@ -668,7 +668,7 @@ const DRINKS = [
   },
   {
     "id": "refreshments-milkshakes-papaya",
-    "name": "Papaya",
+    "name": "Papaya Milkshake",
     "category": "refreshments",
     "subcategory": "Milkshakes",
     "description": "Thick, creamy and freshly blended.",

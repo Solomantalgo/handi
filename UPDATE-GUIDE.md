@@ -1,10 +1,11 @@
-# Updating the preview
+﻿# Updating the menu preview
 
-Menu content is in `data.js`.
+Menu content, stock image references, category artwork, and the item image manifest are maintained in `data.js`.
 
-- Food items are objects generated with `F(category, name, description, spice, vegetarian)`. Keep `price: null` until prices are approved; the preview intentionally shows “Price to be confirmed”.
-- To add or replace a food image, edit the relevant `foodImage` URL. Item data should carry a stable `image` path/URL so UI code does not need to change.
-- Drinks are grouped in `DRINK_GROUPS` with subcategories and ` · `-separated records. Keep serving notes such as `30 ml per tot` in the supplied group.
-- Branches, WhatsApp number, website URL, and `liveOrdering` are in `CONFIG`.
+- Food and drinks each have a stable ID and an `image` field. Individual image references live in the `ITEM_IMAGE_ASSETS` map keyed by stable item ID. Unmapped items render an intentional neutral photo area.
+- `ITEM_IMAGE_MANIFEST` lists every item, its image status, and source metadata when an image is assigned. The human-readable mapping is in `ASSET-MANIFEST.md`.
+- Food category art is separate in `FOOD_CATEGORY_IMAGES`; it is never used as an item-photo fallback.
+- Supplied banner artwork is optimized in `images/banners/*.webp`; the supplied PNG originals remain in place.
+- Keep prices `null` until approved. Ordering configuration remains in `CONFIG`; this stage does not change checkout behavior.
 
-Set `CONFIG.liveOrdering` to `true` only after all prices and restaurant operations are confirmed, then connect the final WhatsApp action in `app.js`.
+Replace stock imagery by updating only the matching stable ID in `ITEM_IMAGE_ASSETS` and storing the approved photo in `images/items/food/` or `images/items/drinks/`. Update its source metadata/manifest row; menu rendering and ordering logic do not need changes.

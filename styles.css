@@ -280,3 +280,6 @@ body.branch-gateway footer{margin-top:clamp(14px,2dvh,20px);padding-block:clamp(
 /* Missing item photo label */
 .card-image.item-photo-area{display:grid;place-items:center;background:linear-gradient(135deg,#292d28,#171916)}
 .image-coming-soon{justify-self:center;align-self:center;width:max-content;max-width:calc(100% - 28px);padding:8px 12px;border:0;background:none;color:#b9ad98;font-size:12px;font-weight:400;letter-spacing:normal;line-height:1.5;text-align:center;text-transform:none;white-space:normal;pointer-events:none}
+
+/* Hide individual product photos; preserve the card area and category artwork. */
+.line-thumb img{display:none!important}

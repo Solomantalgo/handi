@@ -14115,12 +14115,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-still-water-500-ml.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-sparkling-water",
@@ -14142,12 +14142,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-sparkling-water.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-soda-water",
@@ -14169,12 +14169,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-soda-water.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-assorted-soft-drinks",
@@ -14196,12 +14196,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-assorted-soft-drinks.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-coke-zero",
@@ -14223,12 +14223,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-coke-zero.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-fresh-lime-soda-sweet-salted-mixed",
@@ -14250,12 +14250,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-fresh-lime-soda-sweet-salted-mixed.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-water-soft-beverages-fresh-lime-juice-plain-mixed",
@@ -14277,12 +14277,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-water-soft-beverages-fresh-lime-juice-plain-mixed.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-mixed-fresh-juice",
@@ -14304,12 +14304,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-mixed-fresh-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-passion-fruit-juice",
@@ -14331,12 +14331,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-passion-fruit-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-mango-juice",
@@ -14358,12 +14358,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-mango-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-fresh-orange-juice",
@@ -14385,12 +14385,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-fresh-orange-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-watermelon-juice",
@@ -14412,12 +14412,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-watermelon-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-fresh-pineapple-juice",
@@ -14439,12 +14439,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-fresh-pineapple-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-juices-mint-pineapple-juice",
@@ -14466,12 +14466,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-juices-mint-pineapple-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-mango-strawberry",
@@ -14493,12 +14493,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-mango-strawberry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-strawberry-banana",
@@ -14520,12 +14520,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-strawberry-banana.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-mango-banana",
@@ -14547,12 +14547,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-mango-banana.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-tropical-fruit",
@@ -14574,12 +14574,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-tropical-fruit.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-avocado",
@@ -14601,12 +14601,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-avocado.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-mango-pineapple-lemon-mint",
@@ -14628,12 +14628,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-mango-pineapple-lemon-mint.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-smoothies-green-healthy",
@@ -14655,12 +14655,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-smoothies-green-healthy.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-lassi-indian-refreshments-mango-lassi",
@@ -14682,12 +14682,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-lassi-indian-refreshments-mango-lassi.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-lassi-indian-refreshments-sweet-lassi",
@@ -14709,12 +14709,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-lassi-indian-refreshments-sweet-lassi.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-lassi-indian-refreshments-salted-lassi",
@@ -14736,12 +14736,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-lassi-indian-refreshments-salted-lassi.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-lassi-indian-refreshments-chaas-buttermilk",
@@ -14763,12 +14763,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-lassi-indian-refreshments-chaas-buttermilk.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-lemonade-classic-fresh-lemonade",
@@ -14790,12 +14790,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-lemonade-classic-fresh-lemonade.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-lemonade-mint-lemonade",
@@ -14817,12 +14817,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-lemonade-mint-lemonade.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-lemonade-strawberry-lemonade",
@@ -14844,12 +14844,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-lemonade-strawberry-lemonade.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-lemonade-passion-fruit-lemonade",
@@ -14871,12 +14871,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-lemonade-passion-fruit-lemonade.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-fresh-lemonade-sparkling-lemonade",
@@ -14898,12 +14898,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-fresh-lemonade-sparkling-lemonade.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-masala-tea",
@@ -14925,12 +14925,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-masala-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-african-tea",
@@ -14952,12 +14952,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-african-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-lemon-tea",
@@ -14979,12 +14979,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-lemon-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-black-tea",
@@ -15006,12 +15006,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-black-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-ginger-lemon-tea",
@@ -15033,12 +15033,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-ginger-lemon-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-dawa-tea",
@@ -15060,12 +15060,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-dawa-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-tea-green-tea",
@@ -15087,12 +15087,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-tea-green-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-iced-tea-lemon-iced-tea",
@@ -15114,12 +15114,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-iced-tea-lemon-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-iced-tea-ginger-lemon-iced-tea",
@@ -15141,12 +15141,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-iced-tea-ginger-lemon-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-iced-tea-strawberry-iced-tea",
@@ -15168,12 +15168,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-iced-tea-strawberry-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-iced-tea-peach-iced-tea",
@@ -15195,12 +15195,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-iced-tea-peach-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-iced-tea-passion-fruit-iced-tea",
@@ -15222,12 +15222,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-iced-tea-passion-fruit-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-african-coffee",
@@ -15249,12 +15249,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-african-coffee.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-black-coffee",
@@ -15276,12 +15276,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-black-coffee.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-espresso",
@@ -15303,12 +15303,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-espresso.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-double-espresso",
@@ -15330,12 +15330,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-double-espresso.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-americano",
@@ -15357,12 +15357,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-americano.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-cappuccino",
@@ -15384,12 +15384,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-cappuccino.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-caf-latte",
@@ -15411,12 +15411,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-caf-latte.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-caf-mocha",
@@ -15438,12 +15438,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-caf-mocha.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-cold-coffee",
@@ -15465,12 +15465,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-cold-coffee.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-coffee-iced-coffee",
@@ -15492,12 +15492,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-coffee-iced-coffee.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-vanilla",
@@ -15519,12 +15519,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-vanilla.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-mango",
@@ -15546,12 +15546,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-mango.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-chocolate",
@@ -15573,12 +15573,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-chocolate.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-strawberry",
@@ -15600,12 +15600,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-strawberry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-papaya",
@@ -15623,7 +15623,13 @@
     "sourceNames": [],
     "servingVariant": null,
     "servingVariantsByBranch": {
-      "kampala-road": [],
+      "kampala-road": [
+        {
+          "id": "standard",
+          "label": "Standard",
+          "price": null
+        }
+      ],
       "naguru": [
         {
           "id": "standard",
@@ -15633,12 +15639,12 @@
       ]
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
+      "kampala-road": "confirmed",
       "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-papaya.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-caramel",
@@ -15660,12 +15666,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-caramel.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-peanut-butter",
@@ -15687,12 +15693,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-peanut-butter.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-oreo",
@@ -15714,12 +15720,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-oreo.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-kitkat",
@@ -15741,12 +15747,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-kitkat.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-lotus-biscoff",
@@ -15768,12 +15774,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-lotus-biscoff.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "refreshments-milkshakes-assorted-fruit",
@@ -15795,12 +15801,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/refreshments-milkshakes-assorted-fruit.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-virgin-mojito-collection-classic-virgin-mojito",
@@ -15822,12 +15828,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-virgin-mojito-collection-classic-virgin-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-virgin-mojito-collection-passion-fruit-virgin-mojito",
@@ -15849,12 +15855,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-virgin-mojito-collection-passion-fruit-virgin-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-virgin-mojito-collection-strawberry-virgin-mojito",
@@ -15876,12 +15882,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-virgin-mojito-collection-strawberry-virgin-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-virgin-mojito-collection-mango-virgin-mojito",
@@ -15903,12 +15909,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-virgin-mojito-collection-mango-virgin-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-shirley-temple",
@@ -15930,12 +15936,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-shirley-temple.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-fruit-punch",
@@ -15957,12 +15963,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-fruit-punch.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-virgin-pi-a-colada",
@@ -15984,12 +15990,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-virgin-pi-a-colada.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-virgin-pi-a-colada-whole-pineapple",
@@ -16011,12 +16017,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-virgin-pi-a-colada-whole-pineapple.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-blue-lagoon",
@@ -16065,12 +16071,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-blue-sea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-kiwi-cooler",
@@ -16092,12 +16098,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-kiwi-cooler.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-passion-fruit-delight",
@@ -16119,12 +16125,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-passion-fruit-delight.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-mango-tango",
@@ -16146,12 +16152,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-mango-tango.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-tropical-sunrise",
@@ -16173,12 +16179,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-tropical-sunrise.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-mango-passion-fizz",
@@ -16200,12 +16206,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-mango-passion-fizz.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-virgin-mary",
@@ -16227,12 +16233,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-virgin-mary.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-signature-mocktails-virgin-strawberry-daiquiri",
@@ -16254,12 +16260,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-signature-mocktails-virgin-strawberry-daiquiri.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-haandi-mojito-collection-classic-mojito",
@@ -16281,12 +16287,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-haandi-mojito-collection-classic-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-haandi-mojito-collection-passion-fruit-mojito",
@@ -16308,12 +16314,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-haandi-mojito-collection-passion-fruit-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-haandi-mojito-collection-strawberry-mojito",
@@ -16335,12 +16341,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-haandi-mojito-collection-strawberry-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-haandi-mojito-collection-mango-mojito",
@@ -16362,12 +16368,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-haandi-mojito-collection-mango-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-pi-a-colada",
@@ -16389,12 +16395,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-pi-a-colada.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-pi-a-colada-whole-pineapple",
@@ -16416,12 +16422,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-pi-a-colada-whole-pineapple.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-long-island-iced-tea",
@@ -16443,12 +16449,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-long-island-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-blue-lagoon",
@@ -16470,12 +16476,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-blue-lagoon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-whiskey-sour",
@@ -16497,12 +16503,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-whiskey-sour.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-bloody-mary",
@@ -16524,12 +16530,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-bloody-mary.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-margarita",
@@ -16551,12 +16557,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-margarita.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-daiquiri",
@@ -16578,12 +16584,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-daiquiri.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-tequila-sunrise",
@@ -16605,12 +16611,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-tequila-sunrise.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-cosmopolitan",
@@ -16632,12 +16638,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-cosmopolitan.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-old-fashioned",
@@ -16659,12 +16665,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-old-fashioned.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-moscow-mule",
@@ -16686,12 +16692,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-moscow-mule.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-gin-tonic",
@@ -16713,12 +16719,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-gin-tonic.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-dry-martini",
@@ -16740,12 +16746,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-dry-martini.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-screwdriver",
@@ -16767,12 +16773,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-screwdriver.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-manhattan",
@@ -16794,12 +16800,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-manhattan.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-classic-signature-cocktails-negroni",
@@ -16821,12 +16827,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-classic-signature-cocktails-negroni.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-red-wine-sangria",
@@ -16848,12 +16854,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-red-wine-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-white-wine-sangria",
@@ -16875,12 +16881,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-white-wine-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-tropical-sangria",
@@ -16902,12 +16908,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-tropical-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitchers-red-wine-sangria",
@@ -16929,12 +16935,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitchers-red-wine-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-white-wine-sangria-2",
@@ -16956,12 +16962,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-white-wine-sangria-2.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-tropical-sangria-2",
@@ -16983,12 +16989,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-tropical-sangria-2.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-classic-mojito",
@@ -17010,12 +17016,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-classic-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-passion-fruit-mojito",
@@ -17037,12 +17043,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-passion-fruit-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-long-island-iced-tea",
@@ -17064,12 +17070,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-long-island-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-fruit-punch",
@@ -17091,12 +17097,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-fruit-punch.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-red-wine-sangria",
@@ -17118,12 +17124,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-red-wine-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-white-wine-sangria",
@@ -17145,12 +17151,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-white-wine-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-tropical-sangria",
@@ -17172,12 +17178,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-tropical-sangria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-classic-mojito",
@@ -17199,12 +17205,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-classic-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-passion-fruit-mojito",
@@ -17226,12 +17232,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-passion-fruit-mojito.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-long-island-iced-tea",
@@ -17253,12 +17259,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-long-island-iced-tea.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-sharing-cocktails-pitcher-fruit-punch",
@@ -17280,12 +17286,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-sharing-cocktails-pitcher-fruit-punch.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-shooters-j-ger-bomb",
@@ -17307,12 +17313,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-shooters-j-ger-bomb.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-shooters-b-52",
@@ -17334,12 +17340,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-shooters-b-52.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-shooters-kamikaze",
@@ -17361,12 +17367,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-shooters-kamikaze.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-shooters-tequila-shot",
@@ -17388,12 +17394,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-shooters-tequila-shot.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "cocktails-mocktails-shooters-sambuca-shot",
@@ -17415,12 +17421,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/cocktails-mocktails-shooters-sambuca-shot.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-bell-lager",
@@ -17442,12 +17448,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-bell-lager.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-guinness-stout",
@@ -17469,12 +17475,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-guinness-stout.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-guinness-smooth",
@@ -17496,12 +17502,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-guinness-smooth.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-tusker-lager",
@@ -17523,12 +17529,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-tusker-lager.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-tusker-malt",
@@ -17550,12 +17556,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-tusker-malt.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-tusker-lite",
@@ -17577,12 +17583,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-tusker-lite.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-tusker-cider",
@@ -17604,12 +17610,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-tusker-cider.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-smirnoff-ice-black",
@@ -17631,12 +17637,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-smirnoff-ice-black.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-castle-lite",
@@ -17658,12 +17664,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-castle-lite.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-local-club",
@@ -17685,12 +17691,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-local-club.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-imported-heineken",
@@ -17712,12 +17718,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-imported-heineken.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-imported-corona",
@@ -17739,12 +17745,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-imported-corona.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-imported-cavana-cider",
@@ -17766,12 +17772,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-imported-cavana-cider.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "beer-chilled-beers-imported-non-alcoholic-beer",
@@ -17793,12 +17799,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/beer-chilled-beers-imported-non-alcoholic-beer.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-kwv-pinotage",
@@ -17820,12 +17826,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-kwv-pinotage.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-kwv-merlot",
@@ -17847,12 +17853,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-kwv-merlot.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-kwv-shiraz",
@@ -17874,12 +17880,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-kwv-shiraz.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-nederburg-cabernet-sauvignon",
@@ -17901,12 +17907,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-nederburg-cabernet-sauvignon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-nederburg-shiraz",
@@ -17928,12 +17934,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-nederburg-shiraz.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-calvet-cabernet-sauvignon",
@@ -17955,12 +17961,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-calvet-cabernet-sauvignon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-calvet-reserve-bordeaux-merlot-cabernet-sauvignon",
@@ -17982,12 +17988,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-calvet-reserve-bordeaux-merlot-cabernet-sauvignon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-four-cousins-red-sweet-750-ml",
@@ -18009,12 +18015,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-four-cousins-red-sweet-750-ml.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-four-cousins-red-dry-1-5-l",
@@ -18036,12 +18042,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-four-cousins-red-dry-1-5-l.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-jacob-s-creek-classic-shiraz",
@@ -18063,12 +18069,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-jacob-s-creek-classic-shiraz.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-kanonkop-kadette-cabernet-sauvignon",
@@ -18090,12 +18096,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-kanonkop-kadette-cabernet-sauvignon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-masi-campofiorin",
@@ -18117,12 +18123,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-masi-campofiorin.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-red-wine-masi-costasera-amarone",
@@ -18144,12 +18150,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-red-wine-masi-costasera-amarone.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-kwv-chardonnay",
@@ -18171,12 +18177,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-kwv-chardonnay.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-kwv-chenin-blanc",
@@ -18198,12 +18204,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-kwv-chenin-blanc.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-kwv-sauvignon-blanc",
@@ -18225,12 +18231,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-kwv-sauvignon-blanc.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-calvet-chardonnay",
@@ -18252,12 +18258,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-calvet-chardonnay.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-calvet-reserve-bordeaux-sauvignon-blanc",
@@ -18279,12 +18285,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-calvet-reserve-bordeaux-sauvignon-blanc.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-four-cousins-white-sweet-1-5-l",
@@ -18306,12 +18312,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-four-cousins-white-sweet-1-5-l.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-four-cousins-white-dry-1-5-l",
@@ -18333,12 +18339,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-four-cousins-white-dry-1-5-l.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-white-wine-masi-masianco-pinot-grigio",
@@ -18360,12 +18366,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-white-wine-masi-masianco-pinot-grigio.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-ros-wine-kwv-classic-shiraz-ros",
@@ -18387,12 +18393,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-ros-wine-kwv-classic-shiraz-ros.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-ros-wine-ken-forrester-petit-ros",
@@ -18414,12 +18420,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-ros-wine-ken-forrester-petit-ros.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-sparkling-wine-kwv-sparkling-cuv-e-brut",
@@ -18441,12 +18447,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-sparkling-wine-kwv-sparkling-cuv-e-brut.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-sparkling-wine-calvet-celebration-brut-sparkling",
@@ -18468,12 +18474,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-sparkling-wine-calvet-celebration-brut-sparkling.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-sparkling-wine-signore-giuseppe-prosecco-extra-dry",
@@ -18495,12 +18501,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-sparkling-wine-signore-giuseppe-prosecco-extra-dry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-champagne-mo-t-chandon-brut-imp-rial",
@@ -18522,12 +18528,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-champagne-mo-t-chandon-brut-imp-rial.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-champagne-mo-t-chandon-ros",
@@ -18549,12 +18555,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-champagne-mo-t-chandon-ros.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "wine-champagne-mumm-cordon-rouge-brut",
@@ -18576,12 +18582,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/wine-champagne-mumm-cordon-rouge-brut.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-johnnie-walker-red-label",
@@ -18603,12 +18609,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-johnnie-walker-red-label.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-johnnie-walker-black-label",
@@ -18630,12 +18636,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-johnnie-walker-black-label.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-johnnie-walker-green-label-15-yrs",
@@ -18657,12 +18663,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-johnnie-walker-green-label-15-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-johnnie-walker-gold-label-reserve",
@@ -18684,12 +18690,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-johnnie-walker-gold-label-reserve.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-chivas-regal-12-yrs",
@@ -18711,12 +18717,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-chivas-regal-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-chivas-regal-18-yrs",
@@ -18738,12 +18744,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-chivas-regal-18-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-ballantine-s",
@@ -18765,12 +18771,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-ballantine-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-j-b-rare",
@@ -18792,12 +18798,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-j-b-rare.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-teacher-s-highland-cream",
@@ -18819,12 +18825,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-teacher-s-highland-cream.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-vat-69",
@@ -18846,12 +18852,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-vat-69.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-all-seasons",
@@ -18873,12 +18879,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-all-seasons.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-the-famous-grouse",
@@ -18900,12 +18906,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-the-famous-grouse.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-jameson",
@@ -18927,12 +18933,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-jameson.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-jameson-black-barrel",
@@ -18954,12 +18960,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-jameson-black-barrel.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-jim-beam",
@@ -18981,12 +18987,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-jim-beam.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-gentleman-jack",
@@ -19008,12 +19014,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-gentleman-jack.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-jack-daniel-s",
@@ -19035,12 +19041,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-jack-daniel-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-per-tot-30-ml-monkey-shoulder",
@@ -19062,12 +19068,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-per-tot-30-ml-monkey-shoulder.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-glenfiddich-12-yrs",
@@ -19089,12 +19095,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-glenfiddich-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-glenfiddich-15-yrs",
@@ -19116,12 +19122,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-glenfiddich-15-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-glenfiddich-18-yrs",
@@ -19143,12 +19149,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-glenfiddich-18-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-the-glenlivet-12-yrs",
@@ -19170,12 +19176,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-the-glenlivet-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-the-glenlivet-15-yrs",
@@ -19197,12 +19203,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-the-glenlivet-15-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-the-glenlivet-18-yrs",
@@ -19224,12 +19230,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-the-glenlivet-18-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-singleton-12-yrs",
@@ -19251,12 +19257,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-singleton-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-singleton-15-yrs",
@@ -19278,12 +19284,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-singleton-15-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-singleton-18-yrs",
@@ -19305,12 +19311,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-singleton-18-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-aberlour-12-yrs",
@@ -19332,12 +19338,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-aberlour-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-lagavulin-16-yrs",
@@ -19359,12 +19365,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-lagavulin-16-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-the-macallan-12-yrs",
@@ -19386,12 +19392,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-the-macallan-12-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-talisker-10-yrs",
@@ -19413,12 +19419,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-talisker-10-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-single-malt-glenmorangie-original-10-yrs",
@@ -19440,12 +19446,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-single-malt-glenmorangie-original-10-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-bourbon-american-whiskey-jim-beam",
@@ -19467,12 +19473,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-bourbon-american-whiskey-jim-beam.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-bourbon-american-whiskey-jack-daniel-s",
@@ -19494,12 +19500,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-bourbon-american-whiskey-jack-daniel-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-bourbon-american-whiskey-gentleman-jack",
@@ -19521,12 +19527,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-bourbon-american-whiskey-gentleman-jack.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-bourbon-american-whiskey-maker-s-mark",
@@ -19548,12 +19554,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-bourbon-american-whiskey-maker-s-mark.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-bourbon-american-whiskey-woodford-reserve",
@@ -19575,12 +19581,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-bourbon-american-whiskey-woodford-reserve.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-bacardi-white",
@@ -19602,12 +19608,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-bacardi-white.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-bacardi-black",
@@ -19629,12 +19635,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-bacardi-black.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-bacardi-gold",
@@ -19656,12 +19662,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-bacardi-gold.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-malibu",
@@ -19683,12 +19689,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-malibu.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-captain-morgan-spiced-gold",
@@ -19710,12 +19716,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-captain-morgan-spiced-gold.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-captain-morgan-dark",
@@ -19737,12 +19743,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-captain-morgan-dark.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-havana-club-3-yrs",
@@ -19764,12 +19770,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-havana-club-3-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-rum-havana-club-7-yrs",
@@ -19791,12 +19797,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-rum-havana-club-7-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-opm",
@@ -19818,12 +19824,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-opm.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-smirnoff",
@@ -19845,12 +19851,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-smirnoff.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-absolut",
@@ -19872,12 +19878,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-absolut.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-absolut-vanilla",
@@ -19899,12 +19905,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-absolut-vanilla.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-c-roc",
@@ -19926,12 +19932,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-c-roc.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-grey-goose",
@@ -19953,12 +19959,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-grey-goose.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vodka-belvedere",
@@ -19980,12 +19986,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vodka-belvedere.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-ug-premium",
@@ -20007,12 +20013,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-ug-premium.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-ug-coconut",
@@ -20034,12 +20040,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-ug-coconut.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-ug-ginger-lemon",
@@ -20061,12 +20067,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-ug-ginger-lemon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-gilbey-s",
@@ -20088,12 +20094,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-gilbey-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-gordon-s",
@@ -20115,12 +20121,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-gordon-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-bombay-sapphire",
@@ -20142,12 +20148,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-bombay-sapphire.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-beefeater-dry",
@@ -20169,12 +20175,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-beefeater-dry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-tanqueray-london-dry",
@@ -20196,12 +20202,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-tanqueray-london-dry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-gin-hendrick-s",
@@ -20223,12 +20229,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-gin-hendrick-s.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-gold-tequila",
@@ -20250,12 +20256,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-gold-tequila.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-silver-tequila",
@@ -20277,12 +20283,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-silver-tequila.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-chocolate-tequila",
@@ -20304,12 +20310,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-chocolate-tequila.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-jose-cuervo-silver",
@@ -20331,12 +20337,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-jose-cuervo-silver.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-jose-cuervo-gold",
@@ -20358,12 +20364,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-jose-cuervo-gold.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-olmeca-blanco",
@@ -20385,12 +20391,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-olmeca-blanco.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-tequila-olmeca-gold",
@@ -20412,12 +20418,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-tequila-olmeca-gold.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-kwv-5-yrs",
@@ -20439,12 +20445,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-kwv-5-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-kwv-10-yrs",
@@ -20466,12 +20472,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-kwv-10-yrs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-viceroy",
@@ -20493,12 +20499,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-viceroy.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-martell-vs",
@@ -20520,12 +20526,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-martell-vs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-martell-vsop",
@@ -20547,12 +20553,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-martell-vsop.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-r-my-martin-vsop",
@@ -20574,12 +20580,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-r-my-martin-vsop.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-r-my-martin-xo",
@@ -20601,12 +20607,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-r-my-martin-xo.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-hennessy-vs",
@@ -20628,12 +20634,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-hennessy-vs.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-brandy-cognac-hennessy-vsop",
@@ -20655,12 +20661,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-brandy-cognac-hennessy-vsop.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-amarula-cream",
@@ -20682,12 +20688,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-amarula-cream.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-baileys-irish-cream",
@@ -20709,12 +20715,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-baileys-irish-cream.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-cointreau",
@@ -20736,12 +20742,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-cointreau.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-j-germeister",
@@ -20763,12 +20769,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-j-germeister.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-green-zappa",
@@ -20790,12 +20796,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-green-zappa.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-campari-bitter",
@@ -20817,12 +20823,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-campari-bitter.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-kahl-a",
@@ -20844,12 +20850,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-kahl-a.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-southern-comfort",
@@ -20871,12 +20877,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-southern-comfort.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-tia-maria",
@@ -20898,12 +20904,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-tia-maria.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-triple-sec",
@@ -20925,12 +20931,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-triple-sec.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-sambuca",
@@ -20952,12 +20958,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-sambuca.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-disaronno-amaretto",
@@ -20979,12 +20985,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-disaronno-amaretto.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-blue-cura-ao",
@@ -21006,12 +21012,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-blue-cura-ao.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-martini-bianco",
@@ -21033,12 +21039,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-martini-bianco.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-martini-rosso",
@@ -21060,12 +21066,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-martini-rosso.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-martini-extra-dry",
@@ -21087,12 +21093,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-martini-extra-dry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-liqueurs-aperol",
@@ -21114,12 +21120,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-liqueurs-aperol.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vermouth-aperitifs-martini-bianco",
@@ -21141,12 +21147,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vermouth-aperitifs-martini-bianco.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vermouth-aperitifs-martini-rosso",
@@ -21168,12 +21174,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vermouth-aperitifs-martini-rosso.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vermouth-aperitifs-martini-extra-dry",
@@ -21195,12 +21201,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vermouth-aperitifs-martini-extra-dry.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vermouth-aperitifs-aperol",
@@ -21222,12 +21228,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vermouth-aperitifs-aperol.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "spirits-vermouth-aperitifs-campari",
@@ -21249,12 +21255,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/spirits-vermouth-aperitifs-campari.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-tonic-water",
@@ -21276,12 +21282,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-tonic-water.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-soda-water",
@@ -21303,12 +21309,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-soda-water.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-ginger-ale",
@@ -21330,12 +21336,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-ginger-ale.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-cola",
@@ -21357,12 +21363,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-cola.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-lemon-lime-soda",
@@ -21384,12 +21390,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-lemon-lime-soda.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-mixers-ginger-beer",
@@ -21411,12 +21417,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-mixers-ginger-beer.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-fresh-mixers-fresh-lime",
@@ -21438,12 +21444,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-fresh-mixers-fresh-lime.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-fresh-mixers-fresh-lemon",
@@ -21465,12 +21471,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-fresh-mixers-fresh-lemon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-fresh-mixers-orange-juice",
@@ -21492,12 +21498,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-fresh-mixers-orange-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-fresh-mixers-pineapple-juice",
@@ -21519,12 +21525,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-fresh-mixers-pineapple-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-fresh-mixers-passion-fruit-juice",
@@ -21546,12 +21552,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-fresh-mixers-passion-fruit-juice.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-fresh-mint",
@@ -21573,12 +21579,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-fresh-mint.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-basil",
@@ -21600,12 +21606,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-basil.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-ginger",
@@ -21627,12 +21633,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-ginger.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-lemon",
@@ -21654,12 +21660,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-lemon.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-lime",
@@ -21681,12 +21687,12 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-lime.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   },
   {
     "id": "mixers-garnishes-seasonal-fruit",
@@ -21708,11 +21714,11 @@
       "naguru": []
     },
     "branchAvailability": {
-      "kampala-road": "pending-confirmation",
-      "naguru": "pending-confirmation"
+      "kampala-road": "confirmed",
+      "naguru": "confirmed"
     },
     "candidateBranches": [],
     "expectedImagePath": "images/items/drinks/mixers-garnishes-seasonal-fruit.webp",
-    "reviewStatus": "pending-confirmation"
+    "reviewStatus": "confirmed"
   }
 ]

@@ -3160,6 +3160,19 @@ const ITEM_IMAGE_ASSETS = {
   'cocktails-mocktails-classic-signature-cocktails-pi-a-colada': {src:'images/items/drinks/pina-colada.webp',sourcePage:'https://unsplash.com/photos/clear-drinking-glass-with-yellow-liquid-and-purple-and-yellow-flower-lD1Yqc0b3kc',photographer:'Daniel Lloyd Blunk-Fernández',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'},
   'cocktails-mocktails-haandi-mojito-collection-classic-mojito': {src:'images/items/drinks/classic-mojito-cocktail.webp',sourcePage:'https://unsplash.com/photos/refreshing-mojito-cocktail-with-lemon-and-mint-AquVFyceuXk',photographer:'Mr. Pugo',provider:'Unsplash',license:'Unsplash License',attribution:'No attribution required; attribution appreciated.'}
 };
+const SHARED_DRINK_BRANCHES=['kampala-road','naguru'];
+const MOCKTAIL_BLUE_LAGOON_ID='cocktails-mocktails-signature-mocktails-blue-lagoon';
+DRINKS.forEach(item=>{
+  const status=item.id===MOCKTAIL_BLUE_LAGOON_ID?'pending-confirmation':'confirmed';
+  item.reviewStatus=status;
+  item.branchOffers=Object.fromEntries(SHARED_DRINK_BRANCHES.map(branch=>[branch,{status,category:item.category,variants:[]} ]));
+});
+const PAPAYA_MILKSHAKE_ID='refreshments-milkshakes-papaya';
+const papayaDrink=DRINKS.find(item=>item.id===PAPAYA_MILKSHAKE_ID);
+if(papayaDrink){
+  papayaDrink.branchOffers['kampala-road'].variants=[{id:'standard',label:'Standard',price:null}];
+  papayaDrink.branchOffers.naguru.variants=[{id:'standard',label:'Standard',price:18000}];
+}
 const MENU_ITEMS = [...FOOD,...DRINKS];
 MENU_ITEMS.forEach(x=>{const drink=DRINK_GROUPS.some(g=>g.id===x.category);x.image=`images/items/${drink?'drinks':'food'}/${x.id}.webp`});
 const ITEM_IMAGE_MANIFEST = MENU_ITEMS.map(x=>{const drink=DRINK_GROUPS.some(g=>g.id===x.category),groups=drink?DRINK_GROUPS:FOOD_CATEGORIES,cat=groups.find(g=>(Array.isArray(g)?g[0]:g.id)===x.category);return{id:x.id,name:x.name,description:x.description||'',kind:drink?'drink':'food',category:x.category,categoryName:Array.isArray(cat)?cat[1]:cat?.name||x.category,subcategory:x.subcategory||null,servingVariant:x.serving??x.variant??null,expectedImagePath:x.image}});

@@ -57,6 +57,14 @@ Website agent owns code, menu data and the authoritative item manifest. Image ag
 | Peri Peri Masala Dosa | Dosa & South Indian / Dosa | 30,000 | Naguru | Add to dosa collection. |
 | Bombay Pan Shake | Drinks / Milkshakes | 12,000 | Pending confirmation | Preserve printed name; Paan may be a search alias, subject to confirmation. |
 
+### Shared drinks availability confirmation (8 October 2026)
+
+The restaurant confirmed that the existing main drinks menu applies to both Kampala Road and Naguru. This confirms branch availability only; it does not transfer a price from one branch to the other. Preserve every existing drink ID, description, serving guidance, variant and item-image path. Keep a missing branch price null and show “Price to be confirmed.”
+
+Papaya Milkshake is available at both branches. Its Kampala Road price remains unconfirmed and null; its Naguru price is UGX 18,000. Do not duplicate the existing Papaya record.
+
+The Blue Lagoon record under Signature Mocktails retains an alcoholic vodka description that conflicts with its mocktail category/classification. Keep this record pending and unavailable for guest ordering until clarified. The separate alcoholic Blue Lagoon record retains its own ID and classification. Bombay Pan Shake remains pending for branch availability.
+
 The messages request inclusion in the main digital menu, even where separate table menus exist. Actual dish photographs supplied alongside flyers do not create additional products.
 
 ## Differences and questions to resolve before publishing

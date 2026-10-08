@@ -9,7 +9,18 @@ const legacyCategories=FOOD_CATEGORIES;
 const CATEGORY_ART={soups:'soups',salads:'salads','vegetarian-starters':'vegetarian-starters','non-vegetarian-starters':'non-vegetarian-starters-mix','chicken-starters':'chicken-starters','fish-starters':'fish-prawn-starters','mutton-starters':'mutton-lamb-starters','chicken-mains':'chicken-main-course','non-vegetarian-mains':'chicken-main-course','fish-mains':'fish-main-course','mutton-mains':'mutton-lamb-main-course','rice-biryani':'rice-biryani',rice:'rice-biryani',sides:'chips-papad-sides','vegetarian-mains':'vegetarian-mains',breads:'restaurant-breads',chaat:'chaat','indo-chinese':'indo-chinese',momos:'momos',specials:'specials',pizzas:'pizzas',desserts:'desserts',dosa:'dosa',uttapam:'uttapam','bengali-sweets':'bengali-sweets','idli-vada':'idli-vada',ladoo:'ladoo',burfi:'burfi','other-sweets':'other-sweets',snacks:'snacks',combos:'grilled-starters',raita:'raita','cakes-and-pastry':'cakes-and-pastry',cheesecakes:'cheesecakes','dry-cakes-muffins':'dry-cakes-muffins',cookies:'cookies',puffs:'puffs'};
 const BAKERY_CATEGORY_ART={breads:'bakery-breads',desserts:'bakery-desserts'};
 const CATEGORY_NAMES={'vegetarian-mains':'Vegetarian Mains','non-vegetarian-mains':'Non-Vegetarian Mains','non-vegetarian-starters':'Non-Vegetarian Starters','chaat':'Chaat','breads':'Breads','combos':'Combo Meals','new-edition':'New Edition','indo-chinese':'Indo-Chinese','rice-biryani':'Rice & Biryani','fish-starters':'Fish & Prawn Starters','mutton-starters':'Mutton & Lamb Starters','veg-starters':'Vegetarian Starters'};
-const drinks=DRINKS.map(x=>({...x,collection:'drinks',imagePath:x.image,branchOffers:x.branchOffers||{},sourceNames:[...(x.sourceNames||[])],reviewStatus:x.reviewStatus||'pending-confirmation'}));
+const sharedDrinkBranches=['kampala-road','naguru'];
+const unresolvedMocktailId='cocktails-mocktails-signature-mocktails-blue-lagoon';
+const papayaDrinkId='refreshments-milkshakes-papaya';
+const drinks=DRINKS.map(x=>{
+  const status=x.id===unresolvedMocktailId?'pending-confirmation':'confirmed';
+  const branchOffers=x.branchOffers&&Object.keys(x.branchOffers).length?{...x.branchOffers}:Object.fromEntries(sharedDrinkBranches.map(branch=>[branch,{status,category:x.category,variants:[]} ]));
+  if(x.id===papayaDrinkId){
+    branchOffers['kampala-road']={...branchOffers['kampala-road'],status:'confirmed',variants:[{id:'standard',label:'Standard',price:null}]};
+    branchOffers.naguru={...branchOffers.naguru,status:'confirmed',variants:[{id:'standard',label:'Standard',price:18000}]};
+  }
+  return {...x,collection:'drinks',imagePath:x.image,branchOffers,sourceNames:[...(x.sourceNames||[])],reviewStatus:status};
+});
 const matchedIds=new Set(BRANCH_RESTAURANT_PRODUCTS.map(x=>x.id));
 const legacyFoodReferences=FOOD.filter(x=>!matchedIds.has(x.id)).map(x=>({...x,collection:'restaurant-food',imagePath:x.image,branchOffers:{},reviewStatus:'pending-confirmation',sourceNames:[]}));
 const products=[...BRANCH_RESTAURANT_PRODUCTS,...legacyFoodReferences,...SUPPLEMENTAL_MENU.filter(x=>!x.alcoholic),...drinks,...SUPPLEMENTAL_MENU.filter(x=>x.alcoholic)];
@@ -27,7 +38,7 @@ function toast(t){const e=$('#toast');e.textContent=t;e.classList.add('show');cl
 function collectionOffers(){return Object.entries(labels).map(([id,name])=>({id,name,items:activeProducts().filter(x=>x.collection===id)})).filter(x=>x.items.length)}
 function renderCollections(){const list=collectionOffers();$('#collectionOverview').innerHTML=list.map(c=>`<button class="collection-card ${state.collection===c.id?'selected':''}" data-collection="${c.id}" type="button"><strong>${esc(c.name)}</strong><span>${c.items.length||products.filter(x=>x.collection===c.id&&x.branchOffers?.[state.branch]).length} ${c.items.length===1?'item':'items'}${c.items.length?'':' · pending'}</span></button>`).join('');$('#collectionOverview').hidden=!!state.collection||!!state.search}
 function renderNav(){const nav=$('#categoryNav'),cats=categories();nav.innerHTML=`<button class="category-link ${state.category==='all'?'selected':''}" data-category="all" type="button">All ${esc(labels[state.collection]||'items')}<small>${currentProducts().length}</small></button>`+cats.map(([id,n])=>{const count=activeProducts().filter(x=>(!state.collection||x.collection===state.collection)&&x.category===id).length;const art=CATEGORY_ART[id];return `<button class="category-link ${id===state.category?'selected':''}" data-category="${esc(id)}" type="button">${art?`<img class="category-nav-thumb" src="images/categories/food/${art}.webp" alt="" onerror="this.hidden=true">`:''}<span class="category-nav-name">${esc(n)}</span><small>${count}</small></button>`}).join('')}
-function image(path){return `<div class="card-image">${path?`<img src="${esc(path)}" alt="" loading="lazy" onerror="this.remove();this.parentElement.classList.add('photo-placeholder')">`:''}</div>`}
+function image(path){return `<div class="card-image">${path?`<img src="${esc(path)}" alt="" loading="lazy" onerror="this.parentElement?.classList.add('photo-placeholder');this.remove()">`:''}</div>`}
 function searchMatches(x,q){return !q||[x.name,x.description,...(x.sourceNames||[])].join(' ').toLocaleLowerCase().includes(q)}
 function variantsFor(x){const o=offerOf(x);return o?.variants?.length?o.variants:(x.variants||[{id:'standard',label:'Standard',price:x.price??null}])}
 function currentVariant(x){return variantsFor(x)[0]}
